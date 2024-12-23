@@ -1,0 +1,6 @@
+project_id: oomlout_oomp_hardware_nut_cover
+project_name: Oomlout Oomp Hardware Nut Cover
+project_repo: https://github.com/oomlout/oomlout_oomp_hardware_nut_cover
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
