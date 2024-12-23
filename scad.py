@@ -174,25 +174,32 @@ def get_nut_cover(thing, **kwargs):
     oobb_base.append_full(thing,**p3)
     
     #add nut
+    
     p3 = copy.deepcopy(kwargs)
     p3["type"] = "n"
     p3["shape"] = f"oobb_nut"
     p3["radius_name"] = radius_name
     p3["clearance"] = "side"
-
+    p3["extra"] = 3
     pos1 = copy.deepcopy(pos)
     pos1[2] += depth_lip
     poss = []
     pos11 = copy.deepcopy(pos1)
     poss.append(pos11)
-    copies = 2
+    copies = 3
     shift_x = 5
-    for i in range(copies):
-        pos11 = copy.deepcopy(pos11)
-        pos11[0] += shift_x
-        poss.append(pos11)
+    extra_clearance = 0.5
+    for k in range(2):
+        for j in range(3):
+            for i in range(copies):
+                pos11 = copy.deepcopy(pos1)            
+                pos11[0] += i+1*shift_x
+                pos11[1] += (j-1)*extra_clearance
+                pos11[2] += k*extra_clearance
+                poss.append(pos11)
+    
     p3["pos"] = poss
-    #p3["m"] = "#"
+    p3["m"] = "#"
     oobb_base.append_full(thing,**p3)
 
     #add m6 slot
@@ -203,7 +210,7 @@ def get_nut_cover(thing, **kwargs):
     p3["clearance"] = "side"
     p3["depth"] = depth
     p3["width"] = 10
-    p3["m"] = "#"
+    #p3["m"] = "#"
     pos1 = copy.deepcopy(pos)
     pos1[2] += -depth/2 + depth_lip
     pos1[0] += 5
