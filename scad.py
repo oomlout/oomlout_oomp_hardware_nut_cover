@@ -180,23 +180,18 @@ def get_nut_cover(thing, **kwargs):
     p3["shape"] = f"oobb_nut"
     p3["radius_name"] = radius_name
     p3["clearance"] = "side"
-    p3["extra"] = 3
+    p3["extra_clearance"] = 1
     pos1 = copy.deepcopy(pos)
     pos1[2] += depth_lip
     poss = []
     pos11 = copy.deepcopy(pos1)
     poss.append(pos11)
     copies = 3
-    shift_x = 5
-    extra_clearance = 0.5
-    for k in range(2):
-        for j in range(3):
-            for i in range(copies):
-                pos11 = copy.deepcopy(pos1)            
-                pos11[0] += i+1*shift_x
-                pos11[1] += (j-1)*extra_clearance
-                pos11[2] += k*extra_clearance
-                poss.append(pos11)
+    shift_x = 5   
+    for i in range(copies):
+        pos11 = copy.deepcopy(pos1)            
+        pos11[0] += i+1*shift_x        
+        poss.append(pos11)
     
     p3["pos"] = poss
     p3["m"] = "#"
