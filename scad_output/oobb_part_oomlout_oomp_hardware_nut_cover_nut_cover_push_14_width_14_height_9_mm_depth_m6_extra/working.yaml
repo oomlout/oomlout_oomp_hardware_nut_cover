@@ -1,0 +1,146 @@
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_14_width_14_height_9_mm_depth_m6_extra
+kwargs:
+  extra: m6
+  height: 14
+  modes:
+  - 3dpr
+  overwrite: true
+  thickness: 9
+  type: oomlout_oomp_hardware_nut_cover_nut_cover_push
+  width: 14
+name: nut_cover_push
+project_name: C:\gh\oomlout_oomp_hardware_nut_cover
+thing:
+  classification: oobb
+  color: ''
+  components:
+  - - extra: m6
+      height: 14
+      pos:
+      - 0
+      - 0
+      - 0
+      shape: rounded_rectangle
+      size:
+      - 14
+      - 14
+      - 9
+      type: positive
+      width: 14
+  - - objects:
+      - clearance: side
+        extra: m6
+        extra_clearance: -0.25
+        height: 5
+        inclusion: laser
+        pos:
+        - 0
+        - 0
+        - 0
+        r: 5.77
+        shape: polyg
+        sides: 6
+        type: positive
+        width: 14
+      - clearance: side
+        extra: m6
+        extra_clearance: -0.25
+        height: 5
+        inclusion: 3dpr
+        pos:
+        - 0
+        - 0
+        - 0
+        r: 5.914249999999999
+        shape: polyg
+        sides: 6
+        type: positive
+        width: 14
+      - clearance: side
+        extra: m6
+        extra_clearance: -0.25
+        height: 5
+        inclusion: 'true'
+        pos:
+        - 0
+        - 0
+        - 0
+        r: 5.77
+        shape: polyg
+        sides: 6
+        type: positive
+        width: 14
+      pos:
+      - 0
+      - 0
+      - 0
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: n
+  components_objects:
+  - extra: m6
+    height: 14
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    save_type: all
+    shape: rounded_rectangle
+    size:
+    - 14
+    - 14
+    - 9
+    thickness: 9
+    type: p
+    width: 14
+  - clearance: side
+    extra: m6
+    extra_clearance: -0.25
+    height: 14
+    modes:
+    - 3dpr
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: m6
+    save_type: all
+    shape: oobb_nut
+    thickness: 9
+    type: n
+    width: 14
+  components_string:
+  - rounded_rectangle_shape_p_type_all_save_type_true_overwrite_'3dpr'_modes_14_width_14_height_9_thickness_m6_extra_14_14_9_size
+  - oobb_nut_shape_n_type_m6_radius_name_all_save_type_true_overwrite_'3dpr'_modes_14_width_14_height_9_thickness_m6_extra_side_clearance_-0.25_extra_clearance
+  description: oomlout oomp hardware nut cover nut cover push 14x14x9
+  description_extra: m6_extra
+  description_main: 14_width_14_height_9_mm_depth
+  extra: m6
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_14_width_14_height_9_mm_depth_m6_extra
+  height: 14
+  height_mm: 209
+  id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_14_width_14_height_9_mm_depth_m6_extra
+  manufacturer: ''
+  part_number: ''
+  short_name: ''
+  size: oomlout_oomp_hardware_nut_cover_nut_cover_push
+  thickness: 9
+  thickness_mm: 9
+  type: part
+  width: 14
+  width_mm: 209

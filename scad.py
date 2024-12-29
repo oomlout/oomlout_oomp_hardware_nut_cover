@@ -47,15 +47,24 @@ def make_scad(**kwargs):
         part_default["full_shift"] = [0, 0, 0]
         part_default["full_rotations"] = [0, 0, 0]
         
-        part = copy.deepcopy(part_default)
-        p3 = copy.deepcopy(kwargs)
-        p3["width"] = 1
-        p3["height"] = 1
-        p3["thickness"] = 9
-        p3["extra"] = "m6"
-        part["kwargs"] = p3
-        part["name"] = "nut_cover"
-        parts.append(part)
+
+        sizes = []
+        sizes.append([20,20,9])
+        sizes.append([14,14,9])
+
+        names = ["nut_cover_slide", "nut_cover_push"]
+
+        for size in sizes:
+            for name in names:
+                part = copy.deepcopy(part_default)
+                p3 = copy.deepcopy(kwargs)
+                p3["width"] = size[0]
+                p3["height"] = size[1]
+                p3["thickness"] = size[2]
+                p3["extra"] = "m6"
+                part["kwargs"] = p3
+                part["name"] = name
+                parts.append(part)
 
         
     #make the parts
@@ -139,7 +148,7 @@ def get_base(thing, **kwargs):
         #p3["m"] = "#"
         oobb_base.append_full(thing,**p3)
 
-def get_nut_cover(thing, **kwargs):
+def get_nut_cover_push(thing, **kwargs):
 
     prepare_print = kwargs.get("prepare_print", False)
     width = kwargs.get("width", 1)
@@ -160,8 +169,94 @@ def get_nut_cover(thing, **kwargs):
     p3 = copy.deepcopy(kwargs)
     p3["type"] = "p"
     p3["shape"] = f"rounded_rectangle"    
-    w = 20
-    h = 20
+    w = width
+    h = height
+    d = depth
+    size = [w,h,d]
+    p3["size"] = size
+    #p3["depth"] = depth
+    #p3["radius"] = diameter/2
+    #p3["holes"] = True         uncomment to include default holes
+    #p3["m"] = "#"
+    pos1 = copy.deepcopy(pos)         
+    p3["pos"] = pos1
+    oobb_base.append_full(thing,**p3)
+    
+    #add nut
+    
+    p3 = copy.deepcopy(kwargs)
+    p3["type"] = "n"
+    p3["shape"] = f"oobb_nut"
+    p3["radius_name"] = radius_name
+    p3["clearance"] = "side"
+    p3["extra_clearance"] = -0.25
+    pos1 = copy.deepcopy(pos)
+    #pos1[2] += depth_lip
+    p3["pos"] = pos1
+    #p3["m"] = "#"
+    oobb_base.append_full(thing,**p3)
+
+    #add m6 hole
+    p3 = copy.deepcopy(kwargs)
+    p3["type"] = "n"
+    p3["shape"] = f"oobb_hole"
+    p3["radius_name"] = radius_name
+    p3["clearance"] = "side"
+    p3["depth"] = depth
+    #p3["width"] = 10
+    #p3["m"] = "#"
+    pos1 = copy.deepcopy(pos)
+    pos1[2] += -depth/2 + depth_lip
+    pos1[0] += 5
+    p3["pos"] = pos1
+    #oobb_base.append_full(thing,**p3)
+
+
+    if prepare_print:
+        #put into a rotation object
+        components_second = copy.deepcopy(thing["components"])
+        return_value_2 = {}
+        return_value_2["type"]  = "rotation"
+        return_value_2["typetype"]  = "p"
+        pos1 = copy.deepcopy(pos)
+        pos1[0] += 50
+        return_value_2["pos"] = pos1
+        return_value_2["rot"] = [180,0,0]
+        return_value_2["objects"] = components_second
+        
+        thing["components"].append(return_value_2)
+
+    
+        #add slice # top
+        p3 = copy.deepcopy(kwargs)
+        p3["type"] = "n"
+        p3["shape"] = f"oobb_slice"
+        #p3["m"] = "#"
+        oobb_base.append_full(thing,**p3)
+
+def get_nut_cover_slide(thing, **kwargs):
+
+    prepare_print = kwargs.get("prepare_print", False)
+    width = kwargs.get("width", 1)
+    height = kwargs.get("height", 1)
+    depth = kwargs.get("thickness", 3)                    
+    rot = kwargs.get("rot", [0, 0, 0])
+    pos = kwargs.get("pos", [0, 0, 0])
+    extra = kwargs.get("extra", "m6")
+
+    radius_name = extra
+    #pos = copy.deepcopy(pos)
+    #pos[2] += -20
+
+    diameter = 20
+    depth_lip = 1.5
+
+    #add cylinder
+    p3 = copy.deepcopy(kwargs)
+    p3["type"] = "p"
+    p3["shape"] = f"rounded_rectangle"    
+    w = width
+    h = height
     d = depth
     size = [w,h,d]
     p3["size"] = size
