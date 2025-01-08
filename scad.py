@@ -51,22 +51,42 @@ def make_scad(**kwargs):
         sizes = []
         sizes.append([20,20,9])
         sizes.append([14,14,9])
+        sizes.append([10,10,9])
 
         names = ["nut_cover_slide", "nut_cover_push"]
 
+
+
+        extra = "m6"
         for size in sizes:
-            for name in names:
+            for name in names:                
                 part = copy.deepcopy(part_default)
                 p3 = copy.deepcopy(kwargs)
                 p3["width"] = size[0]
                 p3["height"] = size[1]
                 p3["thickness"] = size[2]
-                p3["extra"] = "m6"
+                p3["extra"] = extra
                 part["kwargs"] = p3
                 part["name"] = name
                 parts.append(part)
 
-        
+        extra = "m3"
+        sizes = []        
+        sizes.append([10,10,6])
+        sizes.append([6,6,6])
+        for size in sizes:
+            for name in names:                
+                part = copy.deepcopy(part_default)
+                p3 = copy.deepcopy(kwargs)
+                p3["width"] = size[0]
+                p3["height"] = size[1]
+                p3["thickness"] = size[2]
+                p3["extra"] = extra
+                part["kwargs"] = p3
+                part["name"] = name
+                parts.append(part)
+
+
     #make the parts
     if True:
         for part in parts:
@@ -100,6 +120,7 @@ def get_base(thing, **kwargs):
     depth = kwargs.get("thickness", 3)                    
     rot = kwargs.get("rot", [0, 0, 0])
     pos = kwargs.get("pos", [0, 0, 0])
+    extra = kwargs.get("extra", "m6")
     #pos = copy.deepcopy(pos)
     #pos[2] += -20
 
@@ -108,6 +129,8 @@ def get_base(thing, **kwargs):
     p3["type"] = "p"
     p3["shape"] = f"oobb_plate"    
     p3["depth"] = depth
+    if extra == "m3":
+        p3["radius"] = 2.5
     #p3["holes"] = True         uncomment to include default holes
     #p3["m"] = "#"
     pos1 = copy.deepcopy(pos)         

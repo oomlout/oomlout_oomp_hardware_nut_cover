@@ -131,11 +131,16 @@ thing:
   description_extra: m6_extra
   description_main: 14_width_14_height_9_mm_depth
   extra: m6
-  folder: C:\gh\oomlout_oobb_version_4_generated_parts\things\oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_14_width_14_height_9_mm_depth_m6_extra
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_14_width_14_height_9_mm_depth_m6_extra
   height: 14
   height_mm: 209
   id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_14_width_14_height_9_mm_depth_m6_extra
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oomp_hardware_nut_cover_nut_cover_push/14_width_14_height_9_mm_depth/m6_extra/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oomp_hardware_nut_cover_nut_cover_push_14_14_09_ex_m6
   manufacturer: ''
+  name: Oobb Part Oomlout Oomp Hardware Nut Cover Nut Cover Push 14 Width 14 Height
+    9 mm Depth M6 Extra
+  name_short: Oomlout Oomp Hardware Nut Cover Nut
   part_number: ''
   short_name: ''
   size: oomlout_oomp_hardware_nut_cover_nut_cover_push

@@ -6,81 +6,81 @@ full_shift:
 - 0
 - 0
 - 0
-id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_20_width_20_height_9_mm_depth_m6_extra
+id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_10_width_10_height_6_mm_depth_m3_extra
 kwargs:
-  extra: m6
-  height: 20
+  extra: m3
+  height: 10
   modes:
   - 3dpr
   overwrite: true
-  thickness: 9
+  thickness: 6
   type: oomlout_oomp_hardware_nut_cover_nut_cover_slide
-  width: 20
+  width: 10
 name: nut_cover_slide
 project_name: C:\gh\oomlout_oomp_hardware_nut_cover
 thing:
   classification: oobb
   color: ''
   components:
-  - - extra: m6
-      height: 20
+  - - extra: m3
+      height: 10
       pos:
       - 0
       - 0
       - 0
       shape: rounded_rectangle
       size:
-      - 20
-      - 20
-      - 9
+      - 10
+      - 10
+      - 6
       type: positive
-      width: 20
+      width: 10
   - - objects:
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: laser
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.77
+        r: 3.1734999999999998
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: 3dpr
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.914249999999999
+        r: 3.4619999999999997
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: 'true'
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.77
+        r: 3.1734999999999998
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       pos:
       - 0
       - 0
@@ -93,50 +93,50 @@ thing:
       typetype: n
   - - objects:
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: laser
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.77
+        r: 3.1734999999999998
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: 3dpr
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.914249999999999
+        r: 3.4619999999999997
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: 'true'
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.77
+        r: 3.1734999999999998
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       pos:
       - 5
       - 0
@@ -149,50 +149,50 @@ thing:
       typetype: n
   - - objects:
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: laser
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.77
+        r: 3.1734999999999998
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: 3dpr
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.914249999999999
+        r: 3.4619999999999997
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: 'true'
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.77
+        r: 3.1734999999999998
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       pos:
       - 6
       - 0
@@ -205,50 +205,50 @@ thing:
       typetype: n
   - - objects:
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: laser
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.77
+        r: 3.1734999999999998
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: 3dpr
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.914249999999999
+        r: 3.4619999999999997
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
-        extra: m6
+        extra: m3
         extra_clearance: 1
-        height: 5
+        height: 2.5
         inclusion: 'true'
         m: '#'
         pos:
         - 0
         - 0
         - 0
-        r: 5.77
+        r: 3.1734999999999998
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       pos:
       - 7
       - 0
@@ -261,39 +261,39 @@ thing:
       typetype: n
   - - objects:
       - clearance: side
-        depth: 9
-        extra: m6
-        h: 9
-        height: 20
+        depth: 6
+        extra: m3
+        h: 6
+        height: 10
         inclusion: laser
-        r: 3.0
+        r: 1.5
         shape: slot
         type: positive
         width: 10
       - clearance: side
-        depth: 9
-        extra: m6
-        h: 9
-        height: 20
+        depth: 6
+        extra: m3
+        h: 6
+        height: 10
         inclusion: 3dpr
-        r: 3.25
+        r: 1.8
         shape: slot
         type: positive
         width: 10
       - clearance: side
-        depth: 9
-        extra: m6
-        h: 9
-        height: 20
+        depth: 6
+        extra: m3
+        h: 6
+        height: 10
         inclusion: 'true'
-        r: 3.0
+        r: 1.5
         shape: slot
         type: positive
         width: 10
       pos:
       - 5
       - 0
-      - -7.5
+      - -4.5
       rot:
       - 0
       - 0
@@ -301,8 +301,8 @@ thing:
       type: rotation
       typetype: n
   components_objects:
-  - extra: m6
-    height: 20
+  - extra: m3
+    height: 10
     modes:
     - 3dpr
     overwrite: true
@@ -313,16 +313,16 @@ thing:
     save_type: all
     shape: rounded_rectangle
     size:
-    - 20
-    - 20
-    - 9
-    thickness: 9
+    - 10
+    - 10
+    - 6
+    thickness: 6
     type: p
-    width: 20
+    width: 10
   - clearance: side
-    extra: m6
+    extra: m3
     extra_clearance: 1
-    height: 20
+    height: 10
     m: '#'
     modes:
     - 3dpr
@@ -331,16 +331,16 @@ thing:
     - 0
     - 0
     - 1.5
-    radius_name: m6
+    radius_name: m3
     save_type: all
     shape: oobb_nut
-    thickness: 9
+    thickness: 6
     type: n
-    width: 20
+    width: 10
   - clearance: side
-    extra: m6
+    extra: m3
     extra_clearance: 1
-    height: 20
+    height: 10
     m: '#'
     modes:
     - 3dpr
@@ -349,16 +349,16 @@ thing:
     - 5
     - 0
     - 1.5
-    radius_name: m6
+    radius_name: m3
     save_type: all
     shape: oobb_nut
-    thickness: 9
+    thickness: 6
     type: n
-    width: 20
+    width: 10
   - clearance: side
-    extra: m6
+    extra: m3
     extra_clearance: 1
-    height: 20
+    height: 10
     m: '#'
     modes:
     - 3dpr
@@ -367,16 +367,16 @@ thing:
     - 6
     - 0
     - 1.5
-    radius_name: m6
+    radius_name: m3
     save_type: all
     shape: oobb_nut
-    thickness: 9
+    thickness: 6
     type: n
-    width: 20
+    width: 10
   - clearance: side
-    extra: m6
+    extra: m3
     extra_clearance: 1
-    height: 20
+    height: 10
     m: '#'
     modes:
     - 3dpr
@@ -385,55 +385,55 @@ thing:
     - 7
     - 0
     - 1.5
-    radius_name: m6
+    radius_name: m3
     save_type: all
     shape: oobb_nut
-    thickness: 9
+    thickness: 6
     type: n
-    width: 20
+    width: 10
   - clearance: side
-    depth: 9
-    extra: m6
-    height: 20
+    depth: 6
+    extra: m3
+    height: 10
     modes:
     - 3dpr
     overwrite: true
     pos:
     - 5
     - 0
-    - -3.0
-    radius_name: m6
+    - -1.5
+    radius_name: m3
     save_type: all
     shape: oobb_slot
-    thickness: 9
+    thickness: 6
     type: n
     width: 10
   components_string:
-  - rounded_rectangle_shape_p_type_all_save_type_true_overwrite_'3dpr'_modes_20_width_20_height_9_thickness_m6_extra_20_20_9_size
-  - oobb_nut_shape_n_type_m6_radius_name_0_0_1.5_pos_all_save_type_true_overwrite_'3dpr'_modes_20_width_20_height_9_thickness_m6_extra_side_clearance_1_extra_clearance
-  - oobb_nut_shape_n_type_m6_radius_name_5_0_1.5_pos_all_save_type_true_overwrite_'3dpr'_modes_20_width_20_height_9_thickness_m6_extra_side_clearance_1_extra_clearance
-  - oobb_nut_shape_n_type_m6_radius_name_6_0_1.5_pos_all_save_type_true_overwrite_'3dpr'_modes_20_width_20_height_9_thickness_m6_extra_side_clearance_1_extra_clearance
-  - oobb_nut_shape_n_type_m6_radius_name_7_0_1.5_pos_all_save_type_true_overwrite_'3dpr'_modes_20_width_20_height_9_thickness_m6_extra_side_clearance_1_extra_clearance
-  - oobb_slot_shape_n_type_m6_radius_name_9_depth_5_0_-3.0_pos_all_save_type_true_overwrite_'3dpr'_modes_10_width_20_height_9_thickness_m6_extra_side_clearance
-  description: oomlout oomp hardware nut cover nut cover slide 20x20x9
-  description_extra: m6_extra
-  description_main: 20_width_20_height_9_mm_depth
-  extra: m6
-  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_20_width_20_height_9_mm_depth_m6_extra
-  height: 20
-  height_mm: 299
-  id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_20_width_20_height_9_mm_depth_m6_extra
-  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oomp_hardware_nut_cover_nut_cover_slide/20_width_20_height_9_mm_depth/m6_extra/part
-  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oomp_hardware_nut_cover_nut_cover_slide_20_20_09_ex_m6
+  - rounded_rectangle_shape_p_type_all_save_type_true_overwrite_'3dpr'_modes_10_width_10_height_6_thickness_m3_extra_10_10_6_size
+  - oobb_nut_shape_n_type_m3_radius_name_0_0_1.5_pos_all_save_type_true_overwrite_'3dpr'_modes_10_width_10_height_6_thickness_m3_extra_side_clearance_1_extra_clearance
+  - oobb_nut_shape_n_type_m3_radius_name_5_0_1.5_pos_all_save_type_true_overwrite_'3dpr'_modes_10_width_10_height_6_thickness_m3_extra_side_clearance_1_extra_clearance
+  - oobb_nut_shape_n_type_m3_radius_name_6_0_1.5_pos_all_save_type_true_overwrite_'3dpr'_modes_10_width_10_height_6_thickness_m3_extra_side_clearance_1_extra_clearance
+  - oobb_nut_shape_n_type_m3_radius_name_7_0_1.5_pos_all_save_type_true_overwrite_'3dpr'_modes_10_width_10_height_6_thickness_m3_extra_side_clearance_1_extra_clearance
+  - oobb_slot_shape_n_type_m3_radius_name_6_depth_5_0_-1.5_pos_all_save_type_true_overwrite_'3dpr'_modes_10_width_10_height_6_thickness_m3_extra_side_clearance
+  description: oomlout oomp hardware nut cover nut cover slide 10x10x6
+  description_extra: m3_extra
+  description_main: 10_width_10_height_6_mm_depth
+  extra: m3
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_10_width_10_height_6_mm_depth_m3_extra
+  height: 10
+  height_mm: 149
+  id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_10_width_10_height_6_mm_depth_m3_extra
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oomp_hardware_nut_cover_nut_cover_slide/10_width_10_height_6_mm_depth/m3_extra/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oomp_hardware_nut_cover_nut_cover_slide_10_10_06_ex_m3
   manufacturer: ''
-  name: Oobb Part Oomlout Oomp Hardware Nut Cover Nut Cover Slide 20 Width 20 Height
-    9 mm Depth M6 Extra
+  name: Oobb Part Oomlout Oomp Hardware Nut Cover Nut Cover Slide 10 Width 10 Height
+    6 mm Depth M3 Extra
   name_short: Oomlout Oomp Hardware Nut Cover Nut
   part_number: ''
   short_name: ''
   size: oomlout_oomp_hardware_nut_cover_nut_cover_slide
-  thickness: 9
-  thickness_mm: 9
+  thickness: 6
+  thickness_mm: 6
   type: part
-  width: 20
-  width_mm: 299
+  width: 10
+  width_mm: 149

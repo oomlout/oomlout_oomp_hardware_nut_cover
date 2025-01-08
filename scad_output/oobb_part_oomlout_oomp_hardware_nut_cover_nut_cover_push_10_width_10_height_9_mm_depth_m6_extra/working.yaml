@@ -6,16 +6,16 @@ full_shift:
 - 0
 - 0
 - 0
-id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_20_width_20_height_9_mm_depth_m6_extra
+id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_10_width_10_height_9_mm_depth_m6_extra
 kwargs:
   extra: m6
-  height: 20
+  height: 10
   modes:
   - 3dpr
   overwrite: true
   thickness: 9
   type: oomlout_oomp_hardware_nut_cover_nut_cover_push
-  width: 20
+  width: 10
 name: nut_cover_push
 project_name: C:\gh\oomlout_oomp_hardware_nut_cover
 thing:
@@ -23,18 +23,18 @@ thing:
   color: ''
   components:
   - - extra: m6
-      height: 20
+      height: 10
       pos:
       - 0
       - 0
       - 0
       shape: rounded_rectangle
       size:
-      - 20
-      - 20
+      - 10
+      - 10
       - 9
       type: positive
-      width: 20
+      width: 10
   - - objects:
       - clearance: side
         extra: m6
@@ -49,7 +49,7 @@ thing:
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
         extra: m6
         extra_clearance: -0.25
@@ -63,7 +63,7 @@ thing:
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       - clearance: side
         extra: m6
         extra_clearance: -0.25
@@ -77,7 +77,7 @@ thing:
         shape: polyg
         sides: 6
         type: positive
-        width: 20
+        width: 10
       pos:
       - 0
       - 0
@@ -90,7 +90,7 @@ thing:
       typetype: n
   components_objects:
   - extra: m6
-    height: 20
+    height: 10
     modes:
     - 3dpr
     overwrite: true
@@ -101,16 +101,16 @@ thing:
     save_type: all
     shape: rounded_rectangle
     size:
-    - 20
-    - 20
+    - 10
+    - 10
     - 9
     thickness: 9
     type: p
-    width: 20
+    width: 10
   - clearance: side
     extra: m6
     extra_clearance: -0.25
-    height: 20
+    height: 10
     modes:
     - 3dpr
     overwrite: true
@@ -123,22 +123,22 @@ thing:
     shape: oobb_nut
     thickness: 9
     type: n
-    width: 20
+    width: 10
   components_string:
-  - rounded_rectangle_shape_p_type_all_save_type_true_overwrite_'3dpr'_modes_20_width_20_height_9_thickness_m6_extra_20_20_9_size
-  - oobb_nut_shape_n_type_m6_radius_name_all_save_type_true_overwrite_'3dpr'_modes_20_width_20_height_9_thickness_m6_extra_side_clearance_-0.25_extra_clearance
-  description: oomlout oomp hardware nut cover nut cover push 20x20x9
+  - rounded_rectangle_shape_p_type_all_save_type_true_overwrite_'3dpr'_modes_10_width_10_height_9_thickness_m6_extra_10_10_9_size
+  - oobb_nut_shape_n_type_m6_radius_name_all_save_type_true_overwrite_'3dpr'_modes_10_width_10_height_9_thickness_m6_extra_side_clearance_-0.25_extra_clearance
+  description: oomlout oomp hardware nut cover nut cover push 10x10x9
   description_extra: m6_extra
-  description_main: 20_width_20_height_9_mm_depth
+  description_main: 10_width_10_height_9_mm_depth
   extra: m6
-  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_20_width_20_height_9_mm_depth_m6_extra
-  height: 20
-  height_mm: 299
-  id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_20_width_20_height_9_mm_depth_m6_extra
-  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oomp_hardware_nut_cover_nut_cover_push/20_width_20_height_9_mm_depth/m6_extra/part
-  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oomp_hardware_nut_cover_nut_cover_push_20_20_09_ex_m6
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_10_width_10_height_9_mm_depth_m6_extra
+  height: 10
+  height_mm: 149
+  id: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_push_10_width_10_height_9_mm_depth_m6_extra
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oomp_hardware_nut_cover_nut_cover_push/10_width_10_height_9_mm_depth/m6_extra/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oomp_hardware_nut_cover_nut_cover_push_10_10_09_ex_m6
   manufacturer: ''
-  name: Oobb Part Oomlout Oomp Hardware Nut Cover Nut Cover Push 20 Width 20 Height
+  name: Oobb Part Oomlout Oomp Hardware Nut Cover Nut Cover Push 10 Width 10 Height
     9 mm Depth M6 Extra
   name_short: Oomlout Oomp Hardware Nut Cover Nut
   part_number: ''
@@ -147,5 +147,5 @@ thing:
   thickness: 9
   thickness_mm: 9
   type: part
-  width: 20
-  width_mm: 299
+  width: 10
+  width_mm: 149
