@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sadness
-bip_39_word_dash_10: sadness-first-goat-east-result-update-prosper-review-tree-gaze
-bip_39_word_dash_11: sadness-first-goat-east-result-update-prosper-review-tree-gaze-churn
 bip_39_word_dash_12: sadness-first-goat-east-result-update-prosper-review-tree-gaze-churn-accuse
 bip_39_word_dash_2: sadness-first
 bip_39_word_dash_3: sadness-first-goat
-bip_39_word_dash_4: sadness-first-goat-east
-bip_39_word_dash_5: sadness-first-goat-east-result
-bip_39_word_dash_6: sadness-first-goat-east-result-update
-bip_39_word_dash_7: sadness-first-goat-east-result-update-prosper
-bip_39_word_dash_8: sadness-first-goat-east-result-update-prosper-review
-bip_39_word_dash_9: sadness-first-goat-east-result-update-prosper-review-tree
-bip_39_word_new_br_1: sadness
-bip_39_word_new_br_10: sadness<br>first<br>goat<br>east<br>result<br>update<br>prosper<br>review<br>tree<br>gaze
-bip_39_word_new_br_11: sadness<br>first<br>goat<br>east<br>result<br>update<br>prosper<br>review<br>tree<br>gaze<br>churn
 bip_39_word_new_br_12: sadness<br>first<br>goat<br>east<br>result<br>update<br>prosper<br>review<br>tree<br>gaze<br>churn<br>accuse
 bip_39_word_new_br_2: sadness<br>first
 bip_39_word_new_br_3: sadness<br>first<br>goat
-bip_39_word_new_br_4: sadness<br>first<br>goat<br>east
-bip_39_word_new_br_5: sadness<br>first<br>goat<br>east<br>result
-bip_39_word_new_br_6: sadness<br>first<br>goat<br>east<br>result<br>update
-bip_39_word_new_br_7: sadness<br>first<br>goat<br>east<br>result<br>update<br>prosper
-bip_39_word_new_br_8: sadness<br>first<br>goat<br>east<br>result<br>update<br>prosper<br>review
-bip_39_word_new_br_9: sadness<br>first<br>goat<br>east<br>result<br>update<br>prosper<br>review<br>tree
-bip_39_word_new_line_1: sadness
-bip_39_word_new_line_10: 'sadness
-
-  first
-
-  goat
-
-  east
-
-  result
-
-  update
-
-  prosper
-
-  review
-
-  tree
-
-  gaze'
-bip_39_word_new_line_11: 'sadness
-
-  first
-
-  goat
-
-  east
-
-  result
-
-  update
-
-  prosper
-
-  review
-
-  tree
-
-  gaze
-
-  churn'
 bip_39_word_new_line_12: 'sadness
 
   first
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'sadness
   first
 
   goat'
-bip_39_word_new_line_4: 'sadness
-
-  first
-
-  goat
-
-  east'
-bip_39_word_new_line_5: 'sadness
-
-  first
-
-  goat
-
-  east
-
-  result'
-bip_39_word_new_line_6: 'sadness
-
-  first
-
-  goat
-
-  east
-
-  result
-
-  update'
-bip_39_word_new_line_7: 'sadness
-
-  first
-
-  goat
-
-  east
-
-  result
-
-  update
-
-  prosper'
-bip_39_word_new_line_8: 'sadness
-
-  first
-
-  goat
-
-  east
-
-  result
-
-  update
-
-  prosper
-
-  review'
-bip_39_word_new_line_9: 'sadness
-
-  first
-
-  goat
-
-  east
-
-  result
-
-  update
-
-  prosper
-
-  review
-
-  tree'
-bip_39_word_no_space_1: sadness
-bip_39_word_no_space_10: sadnessfirstgoateastresultupdateprosperreviewtreegaze
-bip_39_word_no_space_11: sadnessfirstgoateastresultupdateprosperreviewtreegazechurn
 bip_39_word_no_space_12: sadnessfirstgoateastresultupdateprosperreviewtreegazechurnaccuse
 bip_39_word_no_space_2: sadnessfirst
 bip_39_word_no_space_3: sadnessfirstgoat
-bip_39_word_no_space_4: sadnessfirstgoateast
-bip_39_word_no_space_5: sadnessfirstgoateastresult
-bip_39_word_no_space_6: sadnessfirstgoateastresultupdate
-bip_39_word_no_space_7: sadnessfirstgoateastresultupdateprosper
-bip_39_word_no_space_8: sadnessfirstgoateastresultupdateprosperreview
-bip_39_word_no_space_9: sadnessfirstgoateastresultupdateprosperreviewtree
-bip_39_word_space_0:
-- sadness
-- first
-- goat
-- east
-- result
-- update
-- prosper
-- review
-- tree
-- gaze
-- churn
-- accuse
-bip_39_word_space_1: sadness
-bip_39_word_space_10: sadness first goat east result update prosper review tree gaze
-bip_39_word_space_11: sadness first goat east result update prosper review tree gaze
-  churn
 bip_39_word_space_12: sadness first goat east result update prosper review tree gaze
   churn accuse
 bip_39_word_space_2: sadness first
 bip_39_word_space_3: sadness first goat
-bip_39_word_space_4: sadness first goat east
-bip_39_word_space_5: sadness first goat east result
-bip_39_word_space_6: sadness first goat east result update
-bip_39_word_space_7: sadness first goat east result update prosper
-bip_39_word_space_8: sadness first goat east result update prosper review
-bip_39_word_space_9: sadness first goat east result update prosper review tree
-bip_39_word_underscore_1: sadness
-bip_39_word_underscore_10: sadness_first_goat_east_result_update_prosper_review_tree_gaze
-bip_39_word_underscore_11: sadness_first_goat_east_result_update_prosper_review_tree_gaze_churn
 bip_39_word_underscore_12: sadness_first_goat_east_result_update_prosper_review_tree_gaze_churn_accuse
 bip_39_word_underscore_2: sadness_first
 bip_39_word_underscore_3: sadness_first_goat
-bip_39_word_underscore_4: sadness_first_goat_east
-bip_39_word_underscore_5: sadness_first_goat_east_result
-bip_39_word_underscore_6: sadness_first_goat_east_result_update
-bip_39_word_underscore_7: sadness_first_goat_east_result_update_prosper
-bip_39_word_underscore_8: sadness_first_goat_east_result_update_prosper_review
-bip_39_word_underscore_9: sadness_first_goat_east_result_update_prosper_review_tree
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -327,14 +155,17 @@ id_no_class: nut_m3_2020_ball_spring
 id_no_color: 2020ballspring
 id_no_size: 2020_ball_spring
 id_no_type: m3_2020_ball_spring
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_2020_ball_spring
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2010yvs
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2010yvs
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2010yvs
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2010yvs
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -342,9 +173,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m3_2020_ball_spring](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring)<br>[nu3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring)<br>[Hardware
-  Nut M3 2020 Ball Spring](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring)<br><br>'
-markdown_short: '[hardware_nut_m3_2020_ball_spring](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_2020_ball_spring)<br><br>'
+markdown_full: '[hardware_nut_m3_2020_ball_spring](none)<br>[nu3](none)<br>[Hardware
+  Nut M3 2020 Ball Spring](none)<br><br>'
+markdown_short: '[hardware_nut_m3_2020_ball_spring](none)<br><br>'
 md5: 1a51982f3fb89593ba5be45ac815ddef
 md5_10: 1a51982f3f
 md5_10_upper: 1A51982F3F
@@ -398,6 +229,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu3
 short_code_upper: NU3
 size: m3

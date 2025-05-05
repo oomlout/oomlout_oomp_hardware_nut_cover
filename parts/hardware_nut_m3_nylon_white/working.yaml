@@ -1,68 +1,9 @@
-bip_39_word_dash_1: uncover
-bip_39_word_dash_10: uncover-clerk-clip-sunset-skill-merge-dwarf-palace-suit-young
-bip_39_word_dash_11: uncover-clerk-clip-sunset-skill-merge-dwarf-palace-suit-young-tennis
 bip_39_word_dash_12: uncover-clerk-clip-sunset-skill-merge-dwarf-palace-suit-young-tennis-approve
 bip_39_word_dash_2: uncover-clerk
 bip_39_word_dash_3: uncover-clerk-clip
-bip_39_word_dash_4: uncover-clerk-clip-sunset
-bip_39_word_dash_5: uncover-clerk-clip-sunset-skill
-bip_39_word_dash_6: uncover-clerk-clip-sunset-skill-merge
-bip_39_word_dash_7: uncover-clerk-clip-sunset-skill-merge-dwarf
-bip_39_word_dash_8: uncover-clerk-clip-sunset-skill-merge-dwarf-palace
-bip_39_word_dash_9: uncover-clerk-clip-sunset-skill-merge-dwarf-palace-suit
-bip_39_word_new_br_1: uncover
-bip_39_word_new_br_10: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit<br>young
-bip_39_word_new_br_11: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit<br>young<br>tennis
 bip_39_word_new_br_12: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit<br>young<br>tennis<br>approve
 bip_39_word_new_br_2: uncover<br>clerk
 bip_39_word_new_br_3: uncover<br>clerk<br>clip
-bip_39_word_new_br_4: uncover<br>clerk<br>clip<br>sunset
-bip_39_word_new_br_5: uncover<br>clerk<br>clip<br>sunset<br>skill
-bip_39_word_new_br_6: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge
-bip_39_word_new_br_7: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf
-bip_39_word_new_br_8: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace
-bip_39_word_new_br_9: uncover<br>clerk<br>clip<br>sunset<br>skill<br>merge<br>dwarf<br>palace<br>suit
-bip_39_word_new_line_1: uncover
-bip_39_word_new_line_10: 'uncover
-
-  clerk
-
-  clip
-
-  sunset
-
-  skill
-
-  merge
-
-  dwarf
-
-  palace
-
-  suit
-
-  young'
-bip_39_word_new_line_11: 'uncover
-
-  clerk
-
-  clip
-
-  sunset
-
-  skill
-
-  merge
-
-  dwarf
-
-  palace
-
-  suit
-
-  young
-
-  tennis'
 bip_39_word_new_line_12: 'uncover
 
   clerk
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'uncover
   clerk
 
   clip'
-bip_39_word_new_line_4: 'uncover
-
-  clerk
-
-  clip
-
-  sunset'
-bip_39_word_new_line_5: 'uncover
-
-  clerk
-
-  clip
-
-  sunset
-
-  skill'
-bip_39_word_new_line_6: 'uncover
-
-  clerk
-
-  clip
-
-  sunset
-
-  skill
-
-  merge'
-bip_39_word_new_line_7: 'uncover
-
-  clerk
-
-  clip
-
-  sunset
-
-  skill
-
-  merge
-
-  dwarf'
-bip_39_word_new_line_8: 'uncover
-
-  clerk
-
-  clip
-
-  sunset
-
-  skill
-
-  merge
-
-  dwarf
-
-  palace'
-bip_39_word_new_line_9: 'uncover
-
-  clerk
-
-  clip
-
-  sunset
-
-  skill
-
-  merge
-
-  dwarf
-
-  palace
-
-  suit'
-bip_39_word_no_space_1: uncover
-bip_39_word_no_space_10: uncoverclerkclipsunsetskillmergedwarfpalacesuityoung
-bip_39_word_no_space_11: uncoverclerkclipsunsetskillmergedwarfpalacesuityoungtennis
 bip_39_word_no_space_12: uncoverclerkclipsunsetskillmergedwarfpalacesuityoungtennisapprove
 bip_39_word_no_space_2: uncoverclerk
 bip_39_word_no_space_3: uncoverclerkclip
-bip_39_word_no_space_4: uncoverclerkclipsunset
-bip_39_word_no_space_5: uncoverclerkclipsunsetskill
-bip_39_word_no_space_6: uncoverclerkclipsunsetskillmerge
-bip_39_word_no_space_7: uncoverclerkclipsunsetskillmergedwarf
-bip_39_word_no_space_8: uncoverclerkclipsunsetskillmergedwarfpalace
-bip_39_word_no_space_9: uncoverclerkclipsunsetskillmergedwarfpalacesuit
-bip_39_word_space_0:
-- uncover
-- clerk
-- clip
-- sunset
-- skill
-- merge
-- dwarf
-- palace
-- suit
-- young
-- tennis
-- approve
-bip_39_word_space_1: uncover
-bip_39_word_space_10: uncover clerk clip sunset skill merge dwarf palace suit young
-bip_39_word_space_11: uncover clerk clip sunset skill merge dwarf palace suit young
-  tennis
 bip_39_word_space_12: uncover clerk clip sunset skill merge dwarf palace suit young
   tennis approve
 bip_39_word_space_2: uncover clerk
 bip_39_word_space_3: uncover clerk clip
-bip_39_word_space_4: uncover clerk clip sunset
-bip_39_word_space_5: uncover clerk clip sunset skill
-bip_39_word_space_6: uncover clerk clip sunset skill merge
-bip_39_word_space_7: uncover clerk clip sunset skill merge dwarf
-bip_39_word_space_8: uncover clerk clip sunset skill merge dwarf palace
-bip_39_word_space_9: uncover clerk clip sunset skill merge dwarf palace suit
-bip_39_word_underscore_1: uncover
-bip_39_word_underscore_10: uncover_clerk_clip_sunset_skill_merge_dwarf_palace_suit_young
-bip_39_word_underscore_11: uncover_clerk_clip_sunset_skill_merge_dwarf_palace_suit_young_tennis
 bip_39_word_underscore_12: uncover_clerk_clip_sunset_skill_merge_dwarf_palace_suit_young_tennis_approve
 bip_39_word_underscore_2: uncover_clerk
 bip_39_word_underscore_3: uncover_clerk_clip
-bip_39_word_underscore_4: uncover_clerk_clip_sunset
-bip_39_word_underscore_5: uncover_clerk_clip_sunset_skill
-bip_39_word_underscore_6: uncover_clerk_clip_sunset_skill_merge
-bip_39_word_underscore_7: uncover_clerk_clip_sunset_skill_merge_dwarf
-bip_39_word_underscore_8: uncover_clerk_clip_sunset_skill_merge_dwarf_palace
-bip_39_word_underscore_9: uncover_clerk_clip_sunset_skill_merge_dwarf_palace_suit
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -304,14 +132,17 @@ id_no_color: nylon_white
 id_no_size: nylon_white
 id_no_type: m3_nylon_white
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_nylon_white
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_nylon_white
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_nylon_white
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_nylon_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_nylon_white
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206s1vj
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206s1vj
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206s1vj
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206s1vj
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m3_nylon_white
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -319,9 +150,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br>[nu3](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br>[Hardware
-  Nut M3 Nylon White](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br><br>'
-markdown_short: '[hardware_nut_m3_nylon_white](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_nylon_white)<br><br>'
+markdown_full: '[hardware_nut_m3_nylon_white](none)<br>[nu3](none)<br>[Hardware Nut
+  M3 Nylon White](none)<br><br>'
+markdown_short: '[hardware_nut_m3_nylon_white](none)<br><br>'
 md5: adbe7fd6c89f28962de53d98568a9f65
 md5_10: adbe7fd6c8
 md5_10_upper: ADBE7FD6C8
@@ -372,6 +203,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu3
 short_code_upper: NU3
 size: m3

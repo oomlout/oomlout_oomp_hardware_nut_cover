@@ -1,68 +1,9 @@
-bip_39_word_dash_1: embrace
-bip_39_word_dash_10: embrace-alien-gossip-pattern-infant-fitness-version-liar-sort-long
-bip_39_word_dash_11: embrace-alien-gossip-pattern-infant-fitness-version-liar-sort-long-accuse
 bip_39_word_dash_12: embrace-alien-gossip-pattern-infant-fitness-version-liar-sort-long-accuse-alarm
 bip_39_word_dash_2: embrace-alien
 bip_39_word_dash_3: embrace-alien-gossip
-bip_39_word_dash_4: embrace-alien-gossip-pattern
-bip_39_word_dash_5: embrace-alien-gossip-pattern-infant
-bip_39_word_dash_6: embrace-alien-gossip-pattern-infant-fitness
-bip_39_word_dash_7: embrace-alien-gossip-pattern-infant-fitness-version
-bip_39_word_dash_8: embrace-alien-gossip-pattern-infant-fitness-version-liar
-bip_39_word_dash_9: embrace-alien-gossip-pattern-infant-fitness-version-liar-sort
-bip_39_word_new_br_1: embrace
-bip_39_word_new_br_10: embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long
-bip_39_word_new_br_11: embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long<br>accuse
 bip_39_word_new_br_12: embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort<br>long<br>accuse<br>alarm
 bip_39_word_new_br_2: embrace<br>alien
 bip_39_word_new_br_3: embrace<br>alien<br>gossip
-bip_39_word_new_br_4: embrace<br>alien<br>gossip<br>pattern
-bip_39_word_new_br_5: embrace<br>alien<br>gossip<br>pattern<br>infant
-bip_39_word_new_br_6: embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness
-bip_39_word_new_br_7: embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version
-bip_39_word_new_br_8: embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar
-bip_39_word_new_br_9: embrace<br>alien<br>gossip<br>pattern<br>infant<br>fitness<br>version<br>liar<br>sort
-bip_39_word_new_line_1: embrace
-bip_39_word_new_line_10: 'embrace
-
-  alien
-
-  gossip
-
-  pattern
-
-  infant
-
-  fitness
-
-  version
-
-  liar
-
-  sort
-
-  long'
-bip_39_word_new_line_11: 'embrace
-
-  alien
-
-  gossip
-
-  pattern
-
-  infant
-
-  fitness
-
-  version
-
-  liar
-
-  sort
-
-  long
-
-  accuse'
 bip_39_word_new_line_12: 'embrace
 
   alien
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'embrace
   alien
 
   gossip'
-bip_39_word_new_line_4: 'embrace
-
-  alien
-
-  gossip
-
-  pattern'
-bip_39_word_new_line_5: 'embrace
-
-  alien
-
-  gossip
-
-  pattern
-
-  infant'
-bip_39_word_new_line_6: 'embrace
-
-  alien
-
-  gossip
-
-  pattern
-
-  infant
-
-  fitness'
-bip_39_word_new_line_7: 'embrace
-
-  alien
-
-  gossip
-
-  pattern
-
-  infant
-
-  fitness
-
-  version'
-bip_39_word_new_line_8: 'embrace
-
-  alien
-
-  gossip
-
-  pattern
-
-  infant
-
-  fitness
-
-  version
-
-  liar'
-bip_39_word_new_line_9: 'embrace
-
-  alien
-
-  gossip
-
-  pattern
-
-  infant
-
-  fitness
-
-  version
-
-  liar
-
-  sort'
-bip_39_word_no_space_1: embrace
-bip_39_word_no_space_10: embracealiengossippatterninfantfitnessversionliarsortlong
-bip_39_word_no_space_11: embracealiengossippatterninfantfitnessversionliarsortlongaccuse
 bip_39_word_no_space_12: embracealiengossippatterninfantfitnessversionliarsortlongaccusealarm
 bip_39_word_no_space_2: embracealien
 bip_39_word_no_space_3: embracealiengossip
-bip_39_word_no_space_4: embracealiengossippattern
-bip_39_word_no_space_5: embracealiengossippatterninfant
-bip_39_word_no_space_6: embracealiengossippatterninfantfitness
-bip_39_word_no_space_7: embracealiengossippatterninfantfitnessversion
-bip_39_word_no_space_8: embracealiengossippatterninfantfitnessversionliar
-bip_39_word_no_space_9: embracealiengossippatterninfantfitnessversionliarsort
-bip_39_word_space_0:
-- embrace
-- alien
-- gossip
-- pattern
-- infant
-- fitness
-- version
-- liar
-- sort
-- long
-- accuse
-- alarm
-bip_39_word_space_1: embrace
-bip_39_word_space_10: embrace alien gossip pattern infant fitness version liar sort
-  long
-bip_39_word_space_11: embrace alien gossip pattern infant fitness version liar sort
-  long accuse
 bip_39_word_space_12: embrace alien gossip pattern infant fitness version liar sort
   long accuse alarm
 bip_39_word_space_2: embrace alien
 bip_39_word_space_3: embrace alien gossip
-bip_39_word_space_4: embrace alien gossip pattern
-bip_39_word_space_5: embrace alien gossip pattern infant
-bip_39_word_space_6: embrace alien gossip pattern infant fitness
-bip_39_word_space_7: embrace alien gossip pattern infant fitness version
-bip_39_word_space_8: embrace alien gossip pattern infant fitness version liar
-bip_39_word_space_9: embrace alien gossip pattern infant fitness version liar sort
-bip_39_word_underscore_1: embrace
-bip_39_word_underscore_10: embrace_alien_gossip_pattern_infant_fitness_version_liar_sort_long
-bip_39_word_underscore_11: embrace_alien_gossip_pattern_infant_fitness_version_liar_sort_long_accuse
 bip_39_word_underscore_12: embrace_alien_gossip_pattern_infant_fitness_version_liar_sort_long_accuse_alarm
 bip_39_word_underscore_2: embrace_alien
 bip_39_word_underscore_3: embrace_alien_gossip
-bip_39_word_underscore_4: embrace_alien_gossip_pattern
-bip_39_word_underscore_5: embrace_alien_gossip_pattern_infant
-bip_39_word_underscore_6: embrace_alien_gossip_pattern_infant_fitness
-bip_39_word_underscore_7: embrace_alien_gossip_pattern_infant_fitness_version
-bip_39_word_underscore_8: embrace_alien_gossip_pattern_infant_fitness_version_liar
-bip_39_word_underscore_9: embrace_alien_gossip_pattern_infant_fitness_version_liar_sort
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -305,14 +132,17 @@ id_no_color: flanged
 id_no_size: flanged
 id_no_type: m2_7_flanged
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_7_flanged
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203l8ww
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203l8ww
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203l8ww
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203l8ww
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_flanged
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -320,9 +150,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m2_7_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged)<br>[nu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged)<br>[Hardware
-  Nut M2 7 Flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged)<br><br>'
-markdown_short: '[hardware_nut_m2_7_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_flanged)<br><br>'
+markdown_full: '[hardware_nut_m2_7_flanged](none)<br>[nu](none)<br>[Hardware Nut M2
+  7 Flanged](none)<br><br>'
+markdown_short: '[hardware_nut_m2_7_flanged](none)<br><br>'
 md5: 5c0360f67c80de595fb9aa14c9c19244
 md5_10: 5c0360f67c
 md5_10_upper: 5C0360F67C
@@ -373,6 +203,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu
 short_code_upper: NU
 size: m2_7

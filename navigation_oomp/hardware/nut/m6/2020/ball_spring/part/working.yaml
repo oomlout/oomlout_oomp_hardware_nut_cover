@@ -1,68 +1,9 @@
-bip_39_word_dash_1: sunset
-bip_39_word_dash_10: sunset-improve-tobacco-repair-capital-private-vacant-absorb-clerk-scorpion
-bip_39_word_dash_11: sunset-improve-tobacco-repair-capital-private-vacant-absorb-clerk-scorpion-devote
 bip_39_word_dash_12: sunset-improve-tobacco-repair-capital-private-vacant-absorb-clerk-scorpion-devote-arena
 bip_39_word_dash_2: sunset-improve
 bip_39_word_dash_3: sunset-improve-tobacco
-bip_39_word_dash_4: sunset-improve-tobacco-repair
-bip_39_word_dash_5: sunset-improve-tobacco-repair-capital
-bip_39_word_dash_6: sunset-improve-tobacco-repair-capital-private
-bip_39_word_dash_7: sunset-improve-tobacco-repair-capital-private-vacant
-bip_39_word_dash_8: sunset-improve-tobacco-repair-capital-private-vacant-absorb
-bip_39_word_dash_9: sunset-improve-tobacco-repair-capital-private-vacant-absorb-clerk
-bip_39_word_new_br_1: sunset
-bip_39_word_new_br_10: sunset<br>improve<br>tobacco<br>repair<br>capital<br>private<br>vacant<br>absorb<br>clerk<br>scorpion
-bip_39_word_new_br_11: sunset<br>improve<br>tobacco<br>repair<br>capital<br>private<br>vacant<br>absorb<br>clerk<br>scorpion<br>devote
 bip_39_word_new_br_12: sunset<br>improve<br>tobacco<br>repair<br>capital<br>private<br>vacant<br>absorb<br>clerk<br>scorpion<br>devote<br>arena
 bip_39_word_new_br_2: sunset<br>improve
 bip_39_word_new_br_3: sunset<br>improve<br>tobacco
-bip_39_word_new_br_4: sunset<br>improve<br>tobacco<br>repair
-bip_39_word_new_br_5: sunset<br>improve<br>tobacco<br>repair<br>capital
-bip_39_word_new_br_6: sunset<br>improve<br>tobacco<br>repair<br>capital<br>private
-bip_39_word_new_br_7: sunset<br>improve<br>tobacco<br>repair<br>capital<br>private<br>vacant
-bip_39_word_new_br_8: sunset<br>improve<br>tobacco<br>repair<br>capital<br>private<br>vacant<br>absorb
-bip_39_word_new_br_9: sunset<br>improve<br>tobacco<br>repair<br>capital<br>private<br>vacant<br>absorb<br>clerk
-bip_39_word_new_line_1: sunset
-bip_39_word_new_line_10: 'sunset
-
-  improve
-
-  tobacco
-
-  repair
-
-  capital
-
-  private
-
-  vacant
-
-  absorb
-
-  clerk
-
-  scorpion'
-bip_39_word_new_line_11: 'sunset
-
-  improve
-
-  tobacco
-
-  repair
-
-  capital
-
-  private
-
-  vacant
-
-  absorb
-
-  clerk
-
-  scorpion
-
-  devote'
 bip_39_word_new_line_12: 'sunset
 
   improve
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'sunset
   improve
 
   tobacco'
-bip_39_word_new_line_4: 'sunset
-
-  improve
-
-  tobacco
-
-  repair'
-bip_39_word_new_line_5: 'sunset
-
-  improve
-
-  tobacco
-
-  repair
-
-  capital'
-bip_39_word_new_line_6: 'sunset
-
-  improve
-
-  tobacco
-
-  repair
-
-  capital
-
-  private'
-bip_39_word_new_line_7: 'sunset
-
-  improve
-
-  tobacco
-
-  repair
-
-  capital
-
-  private
-
-  vacant'
-bip_39_word_new_line_8: 'sunset
-
-  improve
-
-  tobacco
-
-  repair
-
-  capital
-
-  private
-
-  vacant
-
-  absorb'
-bip_39_word_new_line_9: 'sunset
-
-  improve
-
-  tobacco
-
-  repair
-
-  capital
-
-  private
-
-  vacant
-
-  absorb
-
-  clerk'
-bip_39_word_no_space_1: sunset
-bip_39_word_no_space_10: sunsetimprovetobaccorepaircapitalprivatevacantabsorbclerkscorpion
-bip_39_word_no_space_11: sunsetimprovetobaccorepaircapitalprivatevacantabsorbclerkscorpiondevote
 bip_39_word_no_space_12: sunsetimprovetobaccorepaircapitalprivatevacantabsorbclerkscorpiondevotearena
 bip_39_word_no_space_2: sunsetimprove
 bip_39_word_no_space_3: sunsetimprovetobacco
-bip_39_word_no_space_4: sunsetimprovetobaccorepair
-bip_39_word_no_space_5: sunsetimprovetobaccorepaircapital
-bip_39_word_no_space_6: sunsetimprovetobaccorepaircapitalprivate
-bip_39_word_no_space_7: sunsetimprovetobaccorepaircapitalprivatevacant
-bip_39_word_no_space_8: sunsetimprovetobaccorepaircapitalprivatevacantabsorb
-bip_39_word_no_space_9: sunsetimprovetobaccorepaircapitalprivatevacantabsorbclerk
-bip_39_word_space_0:
-- sunset
-- improve
-- tobacco
-- repair
-- capital
-- private
-- vacant
-- absorb
-- clerk
-- scorpion
-- devote
-- arena
-bip_39_word_space_1: sunset
-bip_39_word_space_10: sunset improve tobacco repair capital private vacant absorb
-  clerk scorpion
-bip_39_word_space_11: sunset improve tobacco repair capital private vacant absorb
-  clerk scorpion devote
 bip_39_word_space_12: sunset improve tobacco repair capital private vacant absorb
   clerk scorpion devote arena
 bip_39_word_space_2: sunset improve
 bip_39_word_space_3: sunset improve tobacco
-bip_39_word_space_4: sunset improve tobacco repair
-bip_39_word_space_5: sunset improve tobacco repair capital
-bip_39_word_space_6: sunset improve tobacco repair capital private
-bip_39_word_space_7: sunset improve tobacco repair capital private vacant
-bip_39_word_space_8: sunset improve tobacco repair capital private vacant absorb
-bip_39_word_space_9: sunset improve tobacco repair capital private vacant absorb clerk
-bip_39_word_underscore_1: sunset
-bip_39_word_underscore_10: sunset_improve_tobacco_repair_capital_private_vacant_absorb_clerk_scorpion
-bip_39_word_underscore_11: sunset_improve_tobacco_repair_capital_private_vacant_absorb_clerk_scorpion_devote
 bip_39_word_underscore_12: sunset_improve_tobacco_repair_capital_private_vacant_absorb_clerk_scorpion_devote_arena
 bip_39_word_underscore_2: sunset_improve
 bip_39_word_underscore_3: sunset_improve_tobacco
-bip_39_word_underscore_4: sunset_improve_tobacco_repair
-bip_39_word_underscore_5: sunset_improve_tobacco_repair_capital
-bip_39_word_underscore_6: sunset_improve_tobacco_repair_capital_private
-bip_39_word_underscore_7: sunset_improve_tobacco_repair_capital_private_vacant
-bip_39_word_underscore_8: sunset_improve_tobacco_repair_capital_private_vacant_absorb
-bip_39_word_underscore_9: sunset_improve_tobacco_repair_capital_private_vacant_absorb_clerk
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -328,14 +155,17 @@ id_no_class: nut_m6_2020_ball_spring
 id_no_color: 2020ballspring
 id_no_size: 2020_ball_spring
 id_no_type: m6_2020_ball_spring
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_2020_ball_spring
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2074be8
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2074be8
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2074be8
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2074be8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -343,9 +173,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m6_2020_ball_spring](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring)<br>[Hardware
-  Nut M6 2020 Ball Spring](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring)<br><br>'
-markdown_short: '[hardware_nut_m6_2020_ball_spring](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_2020_ball_spring)<br><br>'
+markdown_full: '[hardware_nut_m6_2020_ball_spring](none)<br>[nu6](none)<br>[Hardware
+  Nut M6 2020 Ball Spring](none)<br><br>'
+markdown_short: '[hardware_nut_m6_2020_ball_spring](none)<br><br>'
 md5: b679b0495300de0eac910b69c65c86cc
 md5_10: b679b04953
 md5_10_upper: B679B04953
@@ -399,6 +229,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu6
 short_code_upper: NU6
 size: m6

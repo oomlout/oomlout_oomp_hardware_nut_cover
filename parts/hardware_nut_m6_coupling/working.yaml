@@ -1,68 +1,9 @@
-bip_39_word_dash_1: nature
-bip_39_word_dash_10: nature-stairs-enable-educate-rescue-caution-immense-thrive-vast-stadium
-bip_39_word_dash_11: nature-stairs-enable-educate-rescue-caution-immense-thrive-vast-stadium-force
 bip_39_word_dash_12: nature-stairs-enable-educate-rescue-caution-immense-thrive-vast-stadium-force-actress
 bip_39_word_dash_2: nature-stairs
 bip_39_word_dash_3: nature-stairs-enable
-bip_39_word_dash_4: nature-stairs-enable-educate
-bip_39_word_dash_5: nature-stairs-enable-educate-rescue
-bip_39_word_dash_6: nature-stairs-enable-educate-rescue-caution
-bip_39_word_dash_7: nature-stairs-enable-educate-rescue-caution-immense
-bip_39_word_dash_8: nature-stairs-enable-educate-rescue-caution-immense-thrive
-bip_39_word_dash_9: nature-stairs-enable-educate-rescue-caution-immense-thrive-vast
-bip_39_word_new_br_1: nature
-bip_39_word_new_br_10: nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast<br>stadium
-bip_39_word_new_br_11: nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast<br>stadium<br>force
 bip_39_word_new_br_12: nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast<br>stadium<br>force<br>actress
 bip_39_word_new_br_2: nature<br>stairs
 bip_39_word_new_br_3: nature<br>stairs<br>enable
-bip_39_word_new_br_4: nature<br>stairs<br>enable<br>educate
-bip_39_word_new_br_5: nature<br>stairs<br>enable<br>educate<br>rescue
-bip_39_word_new_br_6: nature<br>stairs<br>enable<br>educate<br>rescue<br>caution
-bip_39_word_new_br_7: nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense
-bip_39_word_new_br_8: nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive
-bip_39_word_new_br_9: nature<br>stairs<br>enable<br>educate<br>rescue<br>caution<br>immense<br>thrive<br>vast
-bip_39_word_new_line_1: nature
-bip_39_word_new_line_10: 'nature
-
-  stairs
-
-  enable
-
-  educate
-
-  rescue
-
-  caution
-
-  immense
-
-  thrive
-
-  vast
-
-  stadium'
-bip_39_word_new_line_11: 'nature
-
-  stairs
-
-  enable
-
-  educate
-
-  rescue
-
-  caution
-
-  immense
-
-  thrive
-
-  vast
-
-  stadium
-
-  force'
 bip_39_word_new_line_12: 'nature
 
   stairs
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'nature
   stairs
 
   enable'
-bip_39_word_new_line_4: 'nature
-
-  stairs
-
-  enable
-
-  educate'
-bip_39_word_new_line_5: 'nature
-
-  stairs
-
-  enable
-
-  educate
-
-  rescue'
-bip_39_word_new_line_6: 'nature
-
-  stairs
-
-  enable
-
-  educate
-
-  rescue
-
-  caution'
-bip_39_word_new_line_7: 'nature
-
-  stairs
-
-  enable
-
-  educate
-
-  rescue
-
-  caution
-
-  immense'
-bip_39_word_new_line_8: 'nature
-
-  stairs
-
-  enable
-
-  educate
-
-  rescue
-
-  caution
-
-  immense
-
-  thrive'
-bip_39_word_new_line_9: 'nature
-
-  stairs
-
-  enable
-
-  educate
-
-  rescue
-
-  caution
-
-  immense
-
-  thrive
-
-  vast'
-bip_39_word_no_space_1: nature
-bip_39_word_no_space_10: naturestairsenableeducaterescuecautionimmensethrivevaststadium
-bip_39_word_no_space_11: naturestairsenableeducaterescuecautionimmensethrivevaststadiumforce
 bip_39_word_no_space_12: naturestairsenableeducaterescuecautionimmensethrivevaststadiumforceactress
 bip_39_word_no_space_2: naturestairs
 bip_39_word_no_space_3: naturestairsenable
-bip_39_word_no_space_4: naturestairsenableeducate
-bip_39_word_no_space_5: naturestairsenableeducaterescue
-bip_39_word_no_space_6: naturestairsenableeducaterescuecaution
-bip_39_word_no_space_7: naturestairsenableeducaterescuecautionimmense
-bip_39_word_no_space_8: naturestairsenableeducaterescuecautionimmensethrive
-bip_39_word_no_space_9: naturestairsenableeducaterescuecautionimmensethrivevast
-bip_39_word_space_0:
-- nature
-- stairs
-- enable
-- educate
-- rescue
-- caution
-- immense
-- thrive
-- vast
-- stadium
-- force
-- actress
-bip_39_word_space_1: nature
-bip_39_word_space_10: nature stairs enable educate rescue caution immense thrive vast
-  stadium
-bip_39_word_space_11: nature stairs enable educate rescue caution immense thrive vast
-  stadium force
 bip_39_word_space_12: nature stairs enable educate rescue caution immense thrive vast
   stadium force actress
 bip_39_word_space_2: nature stairs
 bip_39_word_space_3: nature stairs enable
-bip_39_word_space_4: nature stairs enable educate
-bip_39_word_space_5: nature stairs enable educate rescue
-bip_39_word_space_6: nature stairs enable educate rescue caution
-bip_39_word_space_7: nature stairs enable educate rescue caution immense
-bip_39_word_space_8: nature stairs enable educate rescue caution immense thrive
-bip_39_word_space_9: nature stairs enable educate rescue caution immense thrive vast
-bip_39_word_underscore_1: nature
-bip_39_word_underscore_10: nature_stairs_enable_educate_rescue_caution_immense_thrive_vast_stadium
-bip_39_word_underscore_11: nature_stairs_enable_educate_rescue_caution_immense_thrive_vast_stadium_force
 bip_39_word_underscore_12: nature_stairs_enable_educate_rescue_caution_immense_thrive_vast_stadium_force_actress
 bip_39_word_underscore_2: nature_stairs
 bip_39_word_underscore_3: nature_stairs_enable
-bip_39_word_underscore_4: nature_stairs_enable_educate
-bip_39_word_underscore_5: nature_stairs_enable_educate_rescue
-bip_39_word_underscore_6: nature_stairs_enable_educate_rescue_caution
-bip_39_word_underscore_7: nature_stairs_enable_educate_rescue_caution_immense
-bip_39_word_underscore_8: nature_stairs_enable_educate_rescue_caution_immense_thrive
-bip_39_word_underscore_9: nature_stairs_enable_educate_rescue_caution_immense_thrive_vast
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -306,16 +133,19 @@ id_no_color: coupling
 id_no_size: coupling
 id_no_type: m6_coupling
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling
-link_2_name: github_link
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling
+link_2_name: link_github
 link_buy: https://www.orbitalfasteners.co.uk/products/studding-connectors-mild-steel-m6x18-bright-zinc-plated-grade-4-din-6334-din-6334
 link_buy_name: orbital_fasteners
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201qsz8
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201qsz8
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201qsz8
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201qsz8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_coupling
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -323,9 +153,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br>[Hardware
-  Nut M6 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br><br>'
-markdown_short: '[hardware_nut_m6_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling)<br><br>'
+markdown_full: '[hardware_nut_m6_coupling](none)<br>[nu6](none)<br>[Hardware Nut M6
+  Coupling](none)<br><br>'
+markdown_short: '[hardware_nut_m6_coupling](none)<br><br>'
 md5: 2cb634ff8de12e3092db946892b5149b
 md5_10: 2cb634ff8d
 md5_10_upper: 2CB634FF8D
@@ -393,6 +223,7 @@ price_200_distributor_1: '0.0706'
 price_200_distributor_orbital_fasteners: '0.0706'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: missing_value
 short_code: nu6
 short_code_upper: NU6

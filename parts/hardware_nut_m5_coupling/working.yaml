@@ -1,68 +1,9 @@
-bip_39_word_dash_1: laugh
-bip_39_word_dash_10: laugh-chief-ahead-floor-often-couple-work-chapter-cash-dress
-bip_39_word_dash_11: laugh-chief-ahead-floor-often-couple-work-chapter-cash-dress-fatal
 bip_39_word_dash_12: laugh-chief-ahead-floor-often-couple-work-chapter-cash-dress-fatal-ability
 bip_39_word_dash_2: laugh-chief
 bip_39_word_dash_3: laugh-chief-ahead
-bip_39_word_dash_4: laugh-chief-ahead-floor
-bip_39_word_dash_5: laugh-chief-ahead-floor-often
-bip_39_word_dash_6: laugh-chief-ahead-floor-often-couple
-bip_39_word_dash_7: laugh-chief-ahead-floor-often-couple-work
-bip_39_word_dash_8: laugh-chief-ahead-floor-often-couple-work-chapter
-bip_39_word_dash_9: laugh-chief-ahead-floor-often-couple-work-chapter-cash
-bip_39_word_new_br_1: laugh
-bip_39_word_new_br_10: laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash<br>dress
-bip_39_word_new_br_11: laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash<br>dress<br>fatal
 bip_39_word_new_br_12: laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash<br>dress<br>fatal<br>ability
 bip_39_word_new_br_2: laugh<br>chief
 bip_39_word_new_br_3: laugh<br>chief<br>ahead
-bip_39_word_new_br_4: laugh<br>chief<br>ahead<br>floor
-bip_39_word_new_br_5: laugh<br>chief<br>ahead<br>floor<br>often
-bip_39_word_new_br_6: laugh<br>chief<br>ahead<br>floor<br>often<br>couple
-bip_39_word_new_br_7: laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work
-bip_39_word_new_br_8: laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter
-bip_39_word_new_br_9: laugh<br>chief<br>ahead<br>floor<br>often<br>couple<br>work<br>chapter<br>cash
-bip_39_word_new_line_1: laugh
-bip_39_word_new_line_10: 'laugh
-
-  chief
-
-  ahead
-
-  floor
-
-  often
-
-  couple
-
-  work
-
-  chapter
-
-  cash
-
-  dress'
-bip_39_word_new_line_11: 'laugh
-
-  chief
-
-  ahead
-
-  floor
-
-  often
-
-  couple
-
-  work
-
-  chapter
-
-  cash
-
-  dress
-
-  fatal'
 bip_39_word_new_line_12: 'laugh
 
   chief
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'laugh
   chief
 
   ahead'
-bip_39_word_new_line_4: 'laugh
-
-  chief
-
-  ahead
-
-  floor'
-bip_39_word_new_line_5: 'laugh
-
-  chief
-
-  ahead
-
-  floor
-
-  often'
-bip_39_word_new_line_6: 'laugh
-
-  chief
-
-  ahead
-
-  floor
-
-  often
-
-  couple'
-bip_39_word_new_line_7: 'laugh
-
-  chief
-
-  ahead
-
-  floor
-
-  often
-
-  couple
-
-  work'
-bip_39_word_new_line_8: 'laugh
-
-  chief
-
-  ahead
-
-  floor
-
-  often
-
-  couple
-
-  work
-
-  chapter'
-bip_39_word_new_line_9: 'laugh
-
-  chief
-
-  ahead
-
-  floor
-
-  often
-
-  couple
-
-  work
-
-  chapter
-
-  cash'
-bip_39_word_no_space_1: laugh
-bip_39_word_no_space_10: laughchiefaheadflooroftencoupleworkchaptercashdress
-bip_39_word_no_space_11: laughchiefaheadflooroftencoupleworkchaptercashdressfatal
 bip_39_word_no_space_12: laughchiefaheadflooroftencoupleworkchaptercashdressfatalability
 bip_39_word_no_space_2: laughchief
 bip_39_word_no_space_3: laughchiefahead
-bip_39_word_no_space_4: laughchiefaheadfloor
-bip_39_word_no_space_5: laughchiefaheadflooroften
-bip_39_word_no_space_6: laughchiefaheadflooroftencouple
-bip_39_word_no_space_7: laughchiefaheadflooroftencouplework
-bip_39_word_no_space_8: laughchiefaheadflooroftencoupleworkchapter
-bip_39_word_no_space_9: laughchiefaheadflooroftencoupleworkchaptercash
-bip_39_word_space_0:
-- laugh
-- chief
-- ahead
-- floor
-- often
-- couple
-- work
-- chapter
-- cash
-- dress
-- fatal
-- ability
-bip_39_word_space_1: laugh
-bip_39_word_space_10: laugh chief ahead floor often couple work chapter cash dress
-bip_39_word_space_11: laugh chief ahead floor often couple work chapter cash dress
-  fatal
 bip_39_word_space_12: laugh chief ahead floor often couple work chapter cash dress
   fatal ability
 bip_39_word_space_2: laugh chief
 bip_39_word_space_3: laugh chief ahead
-bip_39_word_space_4: laugh chief ahead floor
-bip_39_word_space_5: laugh chief ahead floor often
-bip_39_word_space_6: laugh chief ahead floor often couple
-bip_39_word_space_7: laugh chief ahead floor often couple work
-bip_39_word_space_8: laugh chief ahead floor often couple work chapter
-bip_39_word_space_9: laugh chief ahead floor often couple work chapter cash
-bip_39_word_underscore_1: laugh
-bip_39_word_underscore_10: laugh_chief_ahead_floor_often_couple_work_chapter_cash_dress
-bip_39_word_underscore_11: laugh_chief_ahead_floor_often_couple_work_chapter_cash_dress_fatal
 bip_39_word_underscore_12: laugh_chief_ahead_floor_often_couple_work_chapter_cash_dress_fatal_ability
 bip_39_word_underscore_2: laugh_chief
 bip_39_word_underscore_3: laugh_chief_ahead
-bip_39_word_underscore_4: laugh_chief_ahead_floor
-bip_39_word_underscore_5: laugh_chief_ahead_floor_often
-bip_39_word_underscore_6: laugh_chief_ahead_floor_often_couple
-bip_39_word_underscore_7: laugh_chief_ahead_floor_often_couple_work
-bip_39_word_underscore_8: laugh_chief_ahead_floor_often_couple_work_chapter
-bip_39_word_underscore_9: laugh_chief_ahead_floor_often_couple_work_chapter_cash
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -304,14 +132,17 @@ id_no_color: coupling
 id_no_size: coupling
 id_no_type: m5_coupling
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_coupling
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m5_coupling
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m5_coupling
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_coupling
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m5_coupling
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m5_coupling
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m5_coupling
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203q4w
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203q4w
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203q4w
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203q4w
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m5_coupling
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -319,9 +150,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m5_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_coupling)<br>[nu5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_coupling)<br>[Hardware
-  Nut M5 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_coupling)<br><br>'
-markdown_short: '[hardware_nut_m5_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_coupling)<br><br>'
+markdown_full: '[hardware_nut_m5_coupling](none)<br>[nu5](none)<br>[Hardware Nut M5
+  Coupling](none)<br><br>'
+markdown_short: '[hardware_nut_m5_coupling](none)<br><br>'
 md5: 02a710a91a267fb0c4ccd5960a49f3ec
 md5_10: 02a710a91a
 md5_10_upper: 02A710A91A
@@ -372,6 +203,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu5
 short_code_upper: NU5
 size: m5

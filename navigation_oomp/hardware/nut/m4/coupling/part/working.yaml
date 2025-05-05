@@ -1,68 +1,9 @@
-bip_39_word_dash_1: fee
-bip_39_word_dash_10: fee-photo-suspect-worth-stadium-second-avocado-receive-elephant-network
-bip_39_word_dash_11: fee-photo-suspect-worth-stadium-second-avocado-receive-elephant-network-tackle
 bip_39_word_dash_12: fee-photo-suspect-worth-stadium-second-avocado-receive-elephant-network-tackle-actress
 bip_39_word_dash_2: fee-photo
 bip_39_word_dash_3: fee-photo-suspect
-bip_39_word_dash_4: fee-photo-suspect-worth
-bip_39_word_dash_5: fee-photo-suspect-worth-stadium
-bip_39_word_dash_6: fee-photo-suspect-worth-stadium-second
-bip_39_word_dash_7: fee-photo-suspect-worth-stadium-second-avocado
-bip_39_word_dash_8: fee-photo-suspect-worth-stadium-second-avocado-receive
-bip_39_word_dash_9: fee-photo-suspect-worth-stadium-second-avocado-receive-elephant
-bip_39_word_new_br_1: fee
-bip_39_word_new_br_10: fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant<br>network
-bip_39_word_new_br_11: fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant<br>network<br>tackle
 bip_39_word_new_br_12: fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant<br>network<br>tackle<br>actress
 bip_39_word_new_br_2: fee<br>photo
 bip_39_word_new_br_3: fee<br>photo<br>suspect
-bip_39_word_new_br_4: fee<br>photo<br>suspect<br>worth
-bip_39_word_new_br_5: fee<br>photo<br>suspect<br>worth<br>stadium
-bip_39_word_new_br_6: fee<br>photo<br>suspect<br>worth<br>stadium<br>second
-bip_39_word_new_br_7: fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado
-bip_39_word_new_br_8: fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive
-bip_39_word_new_br_9: fee<br>photo<br>suspect<br>worth<br>stadium<br>second<br>avocado<br>receive<br>elephant
-bip_39_word_new_line_1: fee
-bip_39_word_new_line_10: 'fee
-
-  photo
-
-  suspect
-
-  worth
-
-  stadium
-
-  second
-
-  avocado
-
-  receive
-
-  elephant
-
-  network'
-bip_39_word_new_line_11: 'fee
-
-  photo
-
-  suspect
-
-  worth
-
-  stadium
-
-  second
-
-  avocado
-
-  receive
-
-  elephant
-
-  network
-
-  tackle'
 bip_39_word_new_line_12: 'fee
 
   photo
@@ -94,130 +35,16 @@ bip_39_word_new_line_3: 'fee
   photo
 
   suspect'
-bip_39_word_new_line_4: 'fee
-
-  photo
-
-  suspect
-
-  worth'
-bip_39_word_new_line_5: 'fee
-
-  photo
-
-  suspect
-
-  worth
-
-  stadium'
-bip_39_word_new_line_6: 'fee
-
-  photo
-
-  suspect
-
-  worth
-
-  stadium
-
-  second'
-bip_39_word_new_line_7: 'fee
-
-  photo
-
-  suspect
-
-  worth
-
-  stadium
-
-  second
-
-  avocado'
-bip_39_word_new_line_8: 'fee
-
-  photo
-
-  suspect
-
-  worth
-
-  stadium
-
-  second
-
-  avocado
-
-  receive'
-bip_39_word_new_line_9: 'fee
-
-  photo
-
-  suspect
-
-  worth
-
-  stadium
-
-  second
-
-  avocado
-
-  receive
-
-  elephant'
-bip_39_word_no_space_1: fee
-bip_39_word_no_space_10: feephotosuspectworthstadiumsecondavocadoreceiveelephantnetwork
-bip_39_word_no_space_11: feephotosuspectworthstadiumsecondavocadoreceiveelephantnetworktackle
 bip_39_word_no_space_12: feephotosuspectworthstadiumsecondavocadoreceiveelephantnetworktackleactress
 bip_39_word_no_space_2: feephoto
 bip_39_word_no_space_3: feephotosuspect
-bip_39_word_no_space_4: feephotosuspectworth
-bip_39_word_no_space_5: feephotosuspectworthstadium
-bip_39_word_no_space_6: feephotosuspectworthstadiumsecond
-bip_39_word_no_space_7: feephotosuspectworthstadiumsecondavocado
-bip_39_word_no_space_8: feephotosuspectworthstadiumsecondavocadoreceive
-bip_39_word_no_space_9: feephotosuspectworthstadiumsecondavocadoreceiveelephant
-bip_39_word_space_0:
-- fee
-- photo
-- suspect
-- worth
-- stadium
-- second
-- avocado
-- receive
-- elephant
-- network
-- tackle
-- actress
-bip_39_word_space_1: fee
-bip_39_word_space_10: fee photo suspect worth stadium second avocado receive elephant
-  network
-bip_39_word_space_11: fee photo suspect worth stadium second avocado receive elephant
-  network tackle
 bip_39_word_space_12: fee photo suspect worth stadium second avocado receive elephant
   network tackle actress
 bip_39_word_space_2: fee photo
 bip_39_word_space_3: fee photo suspect
-bip_39_word_space_4: fee photo suspect worth
-bip_39_word_space_5: fee photo suspect worth stadium
-bip_39_word_space_6: fee photo suspect worth stadium second
-bip_39_word_space_7: fee photo suspect worth stadium second avocado
-bip_39_word_space_8: fee photo suspect worth stadium second avocado receive
-bip_39_word_space_9: fee photo suspect worth stadium second avocado receive elephant
-bip_39_word_underscore_1: fee
-bip_39_word_underscore_10: fee_photo_suspect_worth_stadium_second_avocado_receive_elephant_network
-bip_39_word_underscore_11: fee_photo_suspect_worth_stadium_second_avocado_receive_elephant_network_tackle
 bip_39_word_underscore_12: fee_photo_suspect_worth_stadium_second_avocado_receive_elephant_network_tackle_actress
 bip_39_word_underscore_2: fee_photo
 bip_39_word_underscore_3: fee_photo_suspect
-bip_39_word_underscore_4: fee_photo_suspect_worth
-bip_39_word_underscore_5: fee_photo_suspect_worth_stadium
-bip_39_word_underscore_6: fee_photo_suspect_worth_stadium_second
-bip_39_word_underscore_7: fee_photo_suspect_worth_stadium_second_avocado
-bip_39_word_underscore_8: fee_photo_suspect_worth_stadium_second_avocado_receive
-bip_39_word_underscore_9: fee_photo_suspect_worth_stadium_second_avocado_receive_elephant
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -305,14 +132,17 @@ id_no_color: coupling
 id_no_size: coupling
 id_no_type: m4_coupling
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_coupling
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_coupling
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_coupling
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_coupling
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_coupling
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_coupling
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_coupling
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201s8bp
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201s8bp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201s8bp
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201s8bp
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_coupling
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -320,9 +150,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m4_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_coupling)<br>[nu4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_coupling)<br>[Hardware
-  Nut M4 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_coupling)<br><br>'
-markdown_short: '[hardware_nut_m4_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_coupling)<br><br>'
+markdown_full: '[hardware_nut_m4_coupling](none)<br>[nu4](none)<br>[Hardware Nut M4
+  Coupling](none)<br><br>'
+markdown_short: '[hardware_nut_m4_coupling](none)<br><br>'
 md5: 2dba25323eb381ff09e9ffdfb5a8eaa4
 md5_10: 2dba25323e
 md5_10_upper: 2DBA25323E
@@ -373,6 +203,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu4
 short_code_upper: NU4
 size: m4

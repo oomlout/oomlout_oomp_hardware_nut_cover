@@ -1,68 +1,9 @@
-bip_39_word_dash_1: valid
-bip_39_word_dash_10: valid-frozen-hospital-task-horn-sudden-law-mirror-hello-boost
-bip_39_word_dash_11: valid-frozen-hospital-task-horn-sudden-law-mirror-hello-boost-suggest
 bip_39_word_dash_12: valid-frozen-hospital-task-horn-sudden-law-mirror-hello-boost-suggest-admit
 bip_39_word_dash_2: valid-frozen
 bip_39_word_dash_3: valid-frozen-hospital
-bip_39_word_dash_4: valid-frozen-hospital-task
-bip_39_word_dash_5: valid-frozen-hospital-task-horn
-bip_39_word_dash_6: valid-frozen-hospital-task-horn-sudden
-bip_39_word_dash_7: valid-frozen-hospital-task-horn-sudden-law
-bip_39_word_dash_8: valid-frozen-hospital-task-horn-sudden-law-mirror
-bip_39_word_dash_9: valid-frozen-hospital-task-horn-sudden-law-mirror-hello
-bip_39_word_new_br_1: valid
-bip_39_word_new_br_10: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost
-bip_39_word_new_br_11: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost<br>suggest
 bip_39_word_new_br_12: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello<br>boost<br>suggest<br>admit
 bip_39_word_new_br_2: valid<br>frozen
 bip_39_word_new_br_3: valid<br>frozen<br>hospital
-bip_39_word_new_br_4: valid<br>frozen<br>hospital<br>task
-bip_39_word_new_br_5: valid<br>frozen<br>hospital<br>task<br>horn
-bip_39_word_new_br_6: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden
-bip_39_word_new_br_7: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law
-bip_39_word_new_br_8: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror
-bip_39_word_new_br_9: valid<br>frozen<br>hospital<br>task<br>horn<br>sudden<br>law<br>mirror<br>hello
-bip_39_word_new_line_1: valid
-bip_39_word_new_line_10: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law
-
-  mirror
-
-  hello
-
-  boost'
-bip_39_word_new_line_11: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law
-
-  mirror
-
-  hello
-
-  boost
-
-  suggest'
 bip_39_word_new_line_12: 'valid
 
   frozen
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'valid
   frozen
 
   hospital'
-bip_39_word_new_line_4: 'valid
-
-  frozen
-
-  hospital
-
-  task'
-bip_39_word_new_line_5: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn'
-bip_39_word_new_line_6: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden'
-bip_39_word_new_line_7: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law'
-bip_39_word_new_line_8: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law
-
-  mirror'
-bip_39_word_new_line_9: 'valid
-
-  frozen
-
-  hospital
-
-  task
-
-  horn
-
-  sudden
-
-  law
-
-  mirror
-
-  hello'
-bip_39_word_no_space_1: valid
-bip_39_word_no_space_10: validfrozenhospitaltaskhornsuddenlawmirrorhelloboost
-bip_39_word_no_space_11: validfrozenhospitaltaskhornsuddenlawmirrorhelloboostsuggest
 bip_39_word_no_space_12: validfrozenhospitaltaskhornsuddenlawmirrorhelloboostsuggestadmit
 bip_39_word_no_space_2: validfrozen
 bip_39_word_no_space_3: validfrozenhospital
-bip_39_word_no_space_4: validfrozenhospitaltask
-bip_39_word_no_space_5: validfrozenhospitaltaskhorn
-bip_39_word_no_space_6: validfrozenhospitaltaskhornsudden
-bip_39_word_no_space_7: validfrozenhospitaltaskhornsuddenlaw
-bip_39_word_no_space_8: validfrozenhospitaltaskhornsuddenlawmirror
-bip_39_word_no_space_9: validfrozenhospitaltaskhornsuddenlawmirrorhello
-bip_39_word_space_0:
-- valid
-- frozen
-- hospital
-- task
-- horn
-- sudden
-- law
-- mirror
-- hello
-- boost
-- suggest
-- admit
-bip_39_word_space_1: valid
-bip_39_word_space_10: valid frozen hospital task horn sudden law mirror hello boost
-bip_39_word_space_11: valid frozen hospital task horn sudden law mirror hello boost
-  suggest
 bip_39_word_space_12: valid frozen hospital task horn sudden law mirror hello boost
   suggest admit
 bip_39_word_space_2: valid frozen
 bip_39_word_space_3: valid frozen hospital
-bip_39_word_space_4: valid frozen hospital task
-bip_39_word_space_5: valid frozen hospital task horn
-bip_39_word_space_6: valid frozen hospital task horn sudden
-bip_39_word_space_7: valid frozen hospital task horn sudden law
-bip_39_word_space_8: valid frozen hospital task horn sudden law mirror
-bip_39_word_space_9: valid frozen hospital task horn sudden law mirror hello
-bip_39_word_underscore_1: valid
-bip_39_word_underscore_10: valid_frozen_hospital_task_horn_sudden_law_mirror_hello_boost
-bip_39_word_underscore_11: valid_frozen_hospital_task_horn_sudden_law_mirror_hello_boost_suggest
 bip_39_word_underscore_12: valid_frozen_hospital_task_horn_sudden_law_mirror_hello_boost_suggest_admit
 bip_39_word_underscore_2: valid_frozen
 bip_39_word_underscore_3: valid_frozen_hospital
-bip_39_word_underscore_4: valid_frozen_hospital_task
-bip_39_word_underscore_5: valid_frozen_hospital_task_horn
-bip_39_word_underscore_6: valid_frozen_hospital_task_horn_sudden
-bip_39_word_underscore_7: valid_frozen_hospital_task_horn_sudden_law
-bip_39_word_underscore_8: valid_frozen_hospital_task_horn_sudden_law_mirror
-bip_39_word_underscore_9: valid_frozen_hospital_task_horn_sudden_law_mirror_hello
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -304,14 +132,17 @@ id_no_color: coupling
 id_no_size: coupling
 id_no_type: m2_7_coupling
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_coupling
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_coupling
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_7_coupling
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_coupling
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_coupling
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_coupling
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_coupling
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202bume
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202bume
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202bume
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202bume
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_7_coupling
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -319,9 +150,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m2_7_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_coupling)<br>[nu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_coupling)<br>[Hardware
-  Nut M2 7 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_coupling)<br><br>'
-markdown_short: '[hardware_nut_m2_7_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7_coupling)<br><br>'
+markdown_full: '[hardware_nut_m2_7_coupling](none)<br>[nu](none)<br>[Hardware Nut
+  M2 7 Coupling](none)<br><br>'
+markdown_short: '[hardware_nut_m2_7_coupling](none)<br><br>'
 md5: 3bb1c66b568d8fbf6236cde0dbd76f86
 md5_10: 3bb1c66b56
 md5_10_upper: 3BB1C66B56
@@ -372,6 +203,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu
 short_code_upper: NU
 size: m2_7

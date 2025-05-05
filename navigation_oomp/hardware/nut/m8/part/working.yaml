@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420655132'
-bip_39_word_dash_1: glass
-bip_39_word_dash_10: glass-essence-slender-chalk-virus-river-scorpion-you-west-sail
-bip_39_word_dash_11: glass-essence-slender-chalk-virus-river-scorpion-you-west-sail-upon
 bip_39_word_dash_12: glass-essence-slender-chalk-virus-river-scorpion-you-west-sail-upon-album
 bip_39_word_dash_2: glass-essence
 bip_39_word_dash_3: glass-essence-slender
-bip_39_word_dash_4: glass-essence-slender-chalk
-bip_39_word_dash_5: glass-essence-slender-chalk-virus
-bip_39_word_dash_6: glass-essence-slender-chalk-virus-river
-bip_39_word_dash_7: glass-essence-slender-chalk-virus-river-scorpion
-bip_39_word_dash_8: glass-essence-slender-chalk-virus-river-scorpion-you
-bip_39_word_dash_9: glass-essence-slender-chalk-virus-river-scorpion-you-west
-bip_39_word_new_br_1: glass
-bip_39_word_new_br_10: glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west<br>sail
-bip_39_word_new_br_11: glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west<br>sail<br>upon
 bip_39_word_new_br_12: glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west<br>sail<br>upon<br>album
 bip_39_word_new_br_2: glass<br>essence
 bip_39_word_new_br_3: glass<br>essence<br>slender
-bip_39_word_new_br_4: glass<br>essence<br>slender<br>chalk
-bip_39_word_new_br_5: glass<br>essence<br>slender<br>chalk<br>virus
-bip_39_word_new_br_6: glass<br>essence<br>slender<br>chalk<br>virus<br>river
-bip_39_word_new_br_7: glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion
-bip_39_word_new_br_8: glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you
-bip_39_word_new_br_9: glass<br>essence<br>slender<br>chalk<br>virus<br>river<br>scorpion<br>you<br>west
-bip_39_word_new_line_1: glass
-bip_39_word_new_line_10: 'glass
-
-  essence
-
-  slender
-
-  chalk
-
-  virus
-
-  river
-
-  scorpion
-
-  you
-
-  west
-
-  sail'
-bip_39_word_new_line_11: 'glass
-
-  essence
-
-  slender
-
-  chalk
-
-  virus
-
-  river
-
-  scorpion
-
-  you
-
-  west
-
-  sail
-
-  upon'
 bip_39_word_new_line_12: 'glass
 
   essence
@@ -95,129 +36,16 @@ bip_39_word_new_line_3: 'glass
   essence
 
   slender'
-bip_39_word_new_line_4: 'glass
-
-  essence
-
-  slender
-
-  chalk'
-bip_39_word_new_line_5: 'glass
-
-  essence
-
-  slender
-
-  chalk
-
-  virus'
-bip_39_word_new_line_6: 'glass
-
-  essence
-
-  slender
-
-  chalk
-
-  virus
-
-  river'
-bip_39_word_new_line_7: 'glass
-
-  essence
-
-  slender
-
-  chalk
-
-  virus
-
-  river
-
-  scorpion'
-bip_39_word_new_line_8: 'glass
-
-  essence
-
-  slender
-
-  chalk
-
-  virus
-
-  river
-
-  scorpion
-
-  you'
-bip_39_word_new_line_9: 'glass
-
-  essence
-
-  slender
-
-  chalk
-
-  virus
-
-  river
-
-  scorpion
-
-  you
-
-  west'
-bip_39_word_no_space_1: glass
-bip_39_word_no_space_10: glassessenceslenderchalkvirusriverscorpionyouwestsail
-bip_39_word_no_space_11: glassessenceslenderchalkvirusriverscorpionyouwestsailupon
 bip_39_word_no_space_12: glassessenceslenderchalkvirusriverscorpionyouwestsailuponalbum
 bip_39_word_no_space_2: glassessence
 bip_39_word_no_space_3: glassessenceslender
-bip_39_word_no_space_4: glassessenceslenderchalk
-bip_39_word_no_space_5: glassessenceslenderchalkvirus
-bip_39_word_no_space_6: glassessenceslenderchalkvirusriver
-bip_39_word_no_space_7: glassessenceslenderchalkvirusriverscorpion
-bip_39_word_no_space_8: glassessenceslenderchalkvirusriverscorpionyou
-bip_39_word_no_space_9: glassessenceslenderchalkvirusriverscorpionyouwest
-bip_39_word_space_0:
-- glass
-- essence
-- slender
-- chalk
-- virus
-- river
-- scorpion
-- you
-- west
-- sail
-- upon
-- album
-bip_39_word_space_1: glass
-bip_39_word_space_10: glass essence slender chalk virus river scorpion you west sail
-bip_39_word_space_11: glass essence slender chalk virus river scorpion you west sail
-  upon
 bip_39_word_space_12: glass essence slender chalk virus river scorpion you west sail
   upon album
 bip_39_word_space_2: glass essence
 bip_39_word_space_3: glass essence slender
-bip_39_word_space_4: glass essence slender chalk
-bip_39_word_space_5: glass essence slender chalk virus
-bip_39_word_space_6: glass essence slender chalk virus river
-bip_39_word_space_7: glass essence slender chalk virus river scorpion
-bip_39_word_space_8: glass essence slender chalk virus river scorpion you
-bip_39_word_space_9: glass essence slender chalk virus river scorpion you west
-bip_39_word_underscore_1: glass
-bip_39_word_underscore_10: glass_essence_slender_chalk_virus_river_scorpion_you_west_sail
-bip_39_word_underscore_11: glass_essence_slender_chalk_virus_river_scorpion_you_west_sail_upon
 bip_39_word_underscore_12: glass_essence_slender_chalk_virus_river_scorpion_you_west_sail_upon_album
 bip_39_word_underscore_2: glass_essence
 bip_39_word_underscore_3: glass_essence_slender
-bip_39_word_underscore_4: glass_essence_slender_chalk
-bip_39_word_underscore_5: glass_essence_slender_chalk_virus
-bip_39_word_underscore_6: glass_essence_slender_chalk_virus_river
-bip_39_word_underscore_7: glass_essence_slender_chalk_virus_river_scorpion
-bip_39_word_underscore_8: glass_essence_slender_chalk_virus_river_scorpion_you
-bip_39_word_underscore_9: glass_essence_slender_chalk_virus_river_scorpion_you_west
 box_of_box_size_manufacturer_metalmate: '3200'
 box_size_manufacturer_metalmate: '100'
 classification: hardware
@@ -285,18 +113,21 @@ id_no_color: m8
 id_no_size: m8
 id_no_type: m8
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8
-link_2_name: github_link
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8
+link_2_name: link_github
 link_3: https://www.harclob2b.com/m8-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m54
 link_3_name: webpage_manufacturer_metalmate
 link_buy: https://www.orbitalfasteners.co.uk/products/m8-hexagon-mild-steel-full-nuts-bright-zinc-plated
 link_buy_name: orbital_fasteners
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203qnsf
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203qnsf
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203qnsf
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203qnsf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -304,9 +135,8 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8)<br>[nu8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8)<br>[Hardware
-  Nut M8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8)<br><br>'
-markdown_short: '[hardware_nut_m8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8)<br><br>'
+markdown_full: '[hardware_nut_m8](none)<br>[nu8](none)<br>[Hardware Nut M8](none)<br><br>'
+markdown_short: '[hardware_nut_m8](none)<br><br>'
 md5: 5fddef8fcbff3826eb7a425f96935317
 md5_10: 5fddef8fcb
 md5_10_upper: 5FDDEF8FCB
@@ -370,6 +200,7 @@ price_200_distributor_1: '0.0132'
 price_200_distributor_orbital_fasteners: '0.0132'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.0132'
 quantity_current: '200'
 short_code: nu8

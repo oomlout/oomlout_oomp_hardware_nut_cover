@@ -1,68 +1,9 @@
-bip_39_word_dash_1: shuffle
-bip_39_word_dash_10: shuffle-hood-sea-occur-bullet-pizza-grab-myself-crowd-pumpkin
-bip_39_word_dash_11: shuffle-hood-sea-occur-bullet-pizza-grab-myself-crowd-pumpkin-vocal
 bip_39_word_dash_12: shuffle-hood-sea-occur-bullet-pizza-grab-myself-crowd-pumpkin-vocal-abuse
 bip_39_word_dash_2: shuffle-hood
 bip_39_word_dash_3: shuffle-hood-sea
-bip_39_word_dash_4: shuffle-hood-sea-occur
-bip_39_word_dash_5: shuffle-hood-sea-occur-bullet
-bip_39_word_dash_6: shuffle-hood-sea-occur-bullet-pizza
-bip_39_word_dash_7: shuffle-hood-sea-occur-bullet-pizza-grab
-bip_39_word_dash_8: shuffle-hood-sea-occur-bullet-pizza-grab-myself
-bip_39_word_dash_9: shuffle-hood-sea-occur-bullet-pizza-grab-myself-crowd
-bip_39_word_new_br_1: shuffle
-bip_39_word_new_br_10: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself<br>crowd<br>pumpkin
-bip_39_word_new_br_11: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself<br>crowd<br>pumpkin<br>vocal
 bip_39_word_new_br_12: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself<br>crowd<br>pumpkin<br>vocal<br>abuse
 bip_39_word_new_br_2: shuffle<br>hood
 bip_39_word_new_br_3: shuffle<br>hood<br>sea
-bip_39_word_new_br_4: shuffle<br>hood<br>sea<br>occur
-bip_39_word_new_br_5: shuffle<br>hood<br>sea<br>occur<br>bullet
-bip_39_word_new_br_6: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza
-bip_39_word_new_br_7: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab
-bip_39_word_new_br_8: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself
-bip_39_word_new_br_9: shuffle<br>hood<br>sea<br>occur<br>bullet<br>pizza<br>grab<br>myself<br>crowd
-bip_39_word_new_line_1: shuffle
-bip_39_word_new_line_10: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab
-
-  myself
-
-  crowd
-
-  pumpkin'
-bip_39_word_new_line_11: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab
-
-  myself
-
-  crowd
-
-  pumpkin
-
-  vocal'
 bip_39_word_new_line_12: 'shuffle
 
   hood
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'shuffle
   hood
 
   sea'
-bip_39_word_new_line_4: 'shuffle
-
-  hood
-
-  sea
-
-  occur'
-bip_39_word_new_line_5: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet'
-bip_39_word_new_line_6: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza'
-bip_39_word_new_line_7: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab'
-bip_39_word_new_line_8: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab
-
-  myself'
-bip_39_word_new_line_9: 'shuffle
-
-  hood
-
-  sea
-
-  occur
-
-  bullet
-
-  pizza
-
-  grab
-
-  myself
-
-  crowd'
-bip_39_word_no_space_1: shuffle
-bip_39_word_no_space_10: shufflehoodseaoccurbulletpizzagrabmyselfcrowdpumpkin
-bip_39_word_no_space_11: shufflehoodseaoccurbulletpizzagrabmyselfcrowdpumpkinvocal
 bip_39_word_no_space_12: shufflehoodseaoccurbulletpizzagrabmyselfcrowdpumpkinvocalabuse
 bip_39_word_no_space_2: shufflehood
 bip_39_word_no_space_3: shufflehoodsea
-bip_39_word_no_space_4: shufflehoodseaoccur
-bip_39_word_no_space_5: shufflehoodseaoccurbullet
-bip_39_word_no_space_6: shufflehoodseaoccurbulletpizza
-bip_39_word_no_space_7: shufflehoodseaoccurbulletpizzagrab
-bip_39_word_no_space_8: shufflehoodseaoccurbulletpizzagrabmyself
-bip_39_word_no_space_9: shufflehoodseaoccurbulletpizzagrabmyselfcrowd
-bip_39_word_space_0:
-- shuffle
-- hood
-- sea
-- occur
-- bullet
-- pizza
-- grab
-- myself
-- crowd
-- pumpkin
-- vocal
-- abuse
-bip_39_word_space_1: shuffle
-bip_39_word_space_10: shuffle hood sea occur bullet pizza grab myself crowd pumpkin
-bip_39_word_space_11: shuffle hood sea occur bullet pizza grab myself crowd pumpkin
-  vocal
 bip_39_word_space_12: shuffle hood sea occur bullet pizza grab myself crowd pumpkin
   vocal abuse
 bip_39_word_space_2: shuffle hood
 bip_39_word_space_3: shuffle hood sea
-bip_39_word_space_4: shuffle hood sea occur
-bip_39_word_space_5: shuffle hood sea occur bullet
-bip_39_word_space_6: shuffle hood sea occur bullet pizza
-bip_39_word_space_7: shuffle hood sea occur bullet pizza grab
-bip_39_word_space_8: shuffle hood sea occur bullet pizza grab myself
-bip_39_word_space_9: shuffle hood sea occur bullet pizza grab myself crowd
-bip_39_word_underscore_1: shuffle
-bip_39_word_underscore_10: shuffle_hood_sea_occur_bullet_pizza_grab_myself_crowd_pumpkin
-bip_39_word_underscore_11: shuffle_hood_sea_occur_bullet_pizza_grab_myself_crowd_pumpkin_vocal
 bip_39_word_underscore_12: shuffle_hood_sea_occur_bullet_pizza_grab_myself_crowd_pumpkin_vocal_abuse
 bip_39_word_underscore_2: shuffle_hood
 bip_39_word_underscore_3: shuffle_hood_sea
-bip_39_word_underscore_4: shuffle_hood_sea_occur
-bip_39_word_underscore_5: shuffle_hood_sea_occur_bullet
-bip_39_word_underscore_6: shuffle_hood_sea_occur_bullet_pizza
-bip_39_word_underscore_7: shuffle_hood_sea_occur_bullet_pizza_grab
-bip_39_word_underscore_8: shuffle_hood_sea_occur_bullet_pizza_grab_myself
-bip_39_word_underscore_9: shuffle_hood_sea_occur_bullet_pizza_grab_myself_crowd
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -304,14 +132,17 @@ id_no_color: coupling
 id_no_size: coupling
 id_no_type: m1_coupling
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_coupling
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_coupling
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_coupling
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_coupling
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_coupling
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_coupling
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_coupling
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20rz57
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20rz57
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20rz57
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20rz57
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_coupling
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -319,9 +150,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m1_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_coupling)<br>[nu1](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_coupling)<br>[Hardware
-  Nut M1 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_coupling)<br><br>'
-markdown_short: '[hardware_nut_m1_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_coupling)<br><br>'
+markdown_full: '[hardware_nut_m1_coupling](none)<br>[nu1](none)<br>[Hardware Nut M1
+  Coupling](none)<br><br>'
+markdown_short: '[hardware_nut_m1_coupling](none)<br><br>'
 md5: 13eaab69a2924caa968f198d83db563b
 md5_10: 13eaab69a2
 md5_10_upper: 13EAAB69A2
@@ -372,6 +203,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu1
 short_code_upper: NU1
 size: m1

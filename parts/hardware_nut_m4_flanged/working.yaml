@@ -1,68 +1,9 @@
-bip_39_word_dash_1: field
-bip_39_word_dash_10: field-reflect-spirit-latin-target-dinner-weird-able-urban-broken
-bip_39_word_dash_11: field-reflect-spirit-latin-target-dinner-weird-able-urban-broken-maximum
 bip_39_word_dash_12: field-reflect-spirit-latin-target-dinner-weird-able-urban-broken-maximum-arch
 bip_39_word_dash_2: field-reflect
 bip_39_word_dash_3: field-reflect-spirit
-bip_39_word_dash_4: field-reflect-spirit-latin
-bip_39_word_dash_5: field-reflect-spirit-latin-target
-bip_39_word_dash_6: field-reflect-spirit-latin-target-dinner
-bip_39_word_dash_7: field-reflect-spirit-latin-target-dinner-weird
-bip_39_word_dash_8: field-reflect-spirit-latin-target-dinner-weird-able
-bip_39_word_dash_9: field-reflect-spirit-latin-target-dinner-weird-able-urban
-bip_39_word_new_br_1: field
-bip_39_word_new_br_10: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban<br>broken
-bip_39_word_new_br_11: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban<br>broken<br>maximum
 bip_39_word_new_br_12: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban<br>broken<br>maximum<br>arch
 bip_39_word_new_br_2: field<br>reflect
 bip_39_word_new_br_3: field<br>reflect<br>spirit
-bip_39_word_new_br_4: field<br>reflect<br>spirit<br>latin
-bip_39_word_new_br_5: field<br>reflect<br>spirit<br>latin<br>target
-bip_39_word_new_br_6: field<br>reflect<br>spirit<br>latin<br>target<br>dinner
-bip_39_word_new_br_7: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird
-bip_39_word_new_br_8: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able
-bip_39_word_new_br_9: field<br>reflect<br>spirit<br>latin<br>target<br>dinner<br>weird<br>able<br>urban
-bip_39_word_new_line_1: field
-bip_39_word_new_line_10: 'field
-
-  reflect
-
-  spirit
-
-  latin
-
-  target
-
-  dinner
-
-  weird
-
-  able
-
-  urban
-
-  broken'
-bip_39_word_new_line_11: 'field
-
-  reflect
-
-  spirit
-
-  latin
-
-  target
-
-  dinner
-
-  weird
-
-  able
-
-  urban
-
-  broken
-
-  maximum'
 bip_39_word_new_line_12: 'field
 
   reflect
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'field
   reflect
 
   spirit'
-bip_39_word_new_line_4: 'field
-
-  reflect
-
-  spirit
-
-  latin'
-bip_39_word_new_line_5: 'field
-
-  reflect
-
-  spirit
-
-  latin
-
-  target'
-bip_39_word_new_line_6: 'field
-
-  reflect
-
-  spirit
-
-  latin
-
-  target
-
-  dinner'
-bip_39_word_new_line_7: 'field
-
-  reflect
-
-  spirit
-
-  latin
-
-  target
-
-  dinner
-
-  weird'
-bip_39_word_new_line_8: 'field
-
-  reflect
-
-  spirit
-
-  latin
-
-  target
-
-  dinner
-
-  weird
-
-  able'
-bip_39_word_new_line_9: 'field
-
-  reflect
-
-  spirit
-
-  latin
-
-  target
-
-  dinner
-
-  weird
-
-  able
-
-  urban'
-bip_39_word_no_space_1: field
-bip_39_word_no_space_10: fieldreflectspiritlatintargetdinnerweirdableurbanbroken
-bip_39_word_no_space_11: fieldreflectspiritlatintargetdinnerweirdableurbanbrokenmaximum
 bip_39_word_no_space_12: fieldreflectspiritlatintargetdinnerweirdableurbanbrokenmaximumarch
 bip_39_word_no_space_2: fieldreflect
 bip_39_word_no_space_3: fieldreflectspirit
-bip_39_word_no_space_4: fieldreflectspiritlatin
-bip_39_word_no_space_5: fieldreflectspiritlatintarget
-bip_39_word_no_space_6: fieldreflectspiritlatintargetdinner
-bip_39_word_no_space_7: fieldreflectspiritlatintargetdinnerweird
-bip_39_word_no_space_8: fieldreflectspiritlatintargetdinnerweirdable
-bip_39_word_no_space_9: fieldreflectspiritlatintargetdinnerweirdableurban
-bip_39_word_space_0:
-- field
-- reflect
-- spirit
-- latin
-- target
-- dinner
-- weird
-- able
-- urban
-- broken
-- maximum
-- arch
-bip_39_word_space_1: field
-bip_39_word_space_10: field reflect spirit latin target dinner weird able urban broken
-bip_39_word_space_11: field reflect spirit latin target dinner weird able urban broken
-  maximum
 bip_39_word_space_12: field reflect spirit latin target dinner weird able urban broken
   maximum arch
 bip_39_word_space_2: field reflect
 bip_39_word_space_3: field reflect spirit
-bip_39_word_space_4: field reflect spirit latin
-bip_39_word_space_5: field reflect spirit latin target
-bip_39_word_space_6: field reflect spirit latin target dinner
-bip_39_word_space_7: field reflect spirit latin target dinner weird
-bip_39_word_space_8: field reflect spirit latin target dinner weird able
-bip_39_word_space_9: field reflect spirit latin target dinner weird able urban
-bip_39_word_underscore_1: field
-bip_39_word_underscore_10: field_reflect_spirit_latin_target_dinner_weird_able_urban_broken
-bip_39_word_underscore_11: field_reflect_spirit_latin_target_dinner_weird_able_urban_broken_maximum
 bip_39_word_underscore_12: field_reflect_spirit_latin_target_dinner_weird_able_urban_broken_maximum_arch
 bip_39_word_underscore_2: field_reflect
 bip_39_word_underscore_3: field_reflect_spirit
-bip_39_word_underscore_4: field_reflect_spirit_latin
-bip_39_word_underscore_5: field_reflect_spirit_latin_target
-bip_39_word_underscore_6: field_reflect_spirit_latin_target_dinner
-bip_39_word_underscore_7: field_reflect_spirit_latin_target_dinner_weird
-bip_39_word_underscore_8: field_reflect_spirit_latin_target_dinner_weird_able
-bip_39_word_underscore_9: field_reflect_spirit_latin_target_dinner_weird_able_urban
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -304,14 +132,17 @@ id_no_color: flanged
 id_no_size: flanged
 id_no_type: m4_flanged
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_flanged
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_flanged
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_flanged
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_flanged
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_flanged
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_flanged
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_flanged
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206wq87
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206wq87
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206wq87
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206wq87
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_flanged
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -319,9 +150,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m4_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_flanged)<br>[nu4](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_flanged)<br>[Hardware
-  Nut M4 Flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_flanged)<br><br>'
-markdown_short: '[hardware_nut_m4_flanged](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_flanged)<br><br>'
+markdown_full: '[hardware_nut_m4_flanged](none)<br>[nu4](none)<br>[Hardware Nut M4
+  Flanged](none)<br><br>'
+markdown_short: '[hardware_nut_m4_flanged](none)<br><br>'
 md5: b112c7277a005f24f96ef7d7a42d0aaf
 md5_10: b112c7277a
 md5_10_upper: B112C7277A
@@ -372,6 +203,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu4
 short_code_upper: NU4
 size: m4

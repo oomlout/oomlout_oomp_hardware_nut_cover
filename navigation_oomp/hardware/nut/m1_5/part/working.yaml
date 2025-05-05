@@ -1,68 +1,9 @@
-bip_39_word_dash_1: prefer
-bip_39_word_dash_10: prefer-cricket-gospel-license-grow-awful-lunch-peace-speak-rabbit
-bip_39_word_dash_11: prefer-cricket-gospel-license-grow-awful-lunch-peace-speak-rabbit-hair
 bip_39_word_dash_12: prefer-cricket-gospel-license-grow-awful-lunch-peace-speak-rabbit-hair-agent
 bip_39_word_dash_2: prefer-cricket
 bip_39_word_dash_3: prefer-cricket-gospel
-bip_39_word_dash_4: prefer-cricket-gospel-license
-bip_39_word_dash_5: prefer-cricket-gospel-license-grow
-bip_39_word_dash_6: prefer-cricket-gospel-license-grow-awful
-bip_39_word_dash_7: prefer-cricket-gospel-license-grow-awful-lunch
-bip_39_word_dash_8: prefer-cricket-gospel-license-grow-awful-lunch-peace
-bip_39_word_dash_9: prefer-cricket-gospel-license-grow-awful-lunch-peace-speak
-bip_39_word_new_br_1: prefer
-bip_39_word_new_br_10: prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit
-bip_39_word_new_br_11: prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit<br>hair
 bip_39_word_new_br_12: prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak<br>rabbit<br>hair<br>agent
 bip_39_word_new_br_2: prefer<br>cricket
 bip_39_word_new_br_3: prefer<br>cricket<br>gospel
-bip_39_word_new_br_4: prefer<br>cricket<br>gospel<br>license
-bip_39_word_new_br_5: prefer<br>cricket<br>gospel<br>license<br>grow
-bip_39_word_new_br_6: prefer<br>cricket<br>gospel<br>license<br>grow<br>awful
-bip_39_word_new_br_7: prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch
-bip_39_word_new_br_8: prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace
-bip_39_word_new_br_9: prefer<br>cricket<br>gospel<br>license<br>grow<br>awful<br>lunch<br>peace<br>speak
-bip_39_word_new_line_1: prefer
-bip_39_word_new_line_10: 'prefer
-
-  cricket
-
-  gospel
-
-  license
-
-  grow
-
-  awful
-
-  lunch
-
-  peace
-
-  speak
-
-  rabbit'
-bip_39_word_new_line_11: 'prefer
-
-  cricket
-
-  gospel
-
-  license
-
-  grow
-
-  awful
-
-  lunch
-
-  peace
-
-  speak
-
-  rabbit
-
-  hair'
 bip_39_word_new_line_12: 'prefer
 
   cricket
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'prefer
   cricket
 
   gospel'
-bip_39_word_new_line_4: 'prefer
-
-  cricket
-
-  gospel
-
-  license'
-bip_39_word_new_line_5: 'prefer
-
-  cricket
-
-  gospel
-
-  license
-
-  grow'
-bip_39_word_new_line_6: 'prefer
-
-  cricket
-
-  gospel
-
-  license
-
-  grow
-
-  awful'
-bip_39_word_new_line_7: 'prefer
-
-  cricket
-
-  gospel
-
-  license
-
-  grow
-
-  awful
-
-  lunch'
-bip_39_word_new_line_8: 'prefer
-
-  cricket
-
-  gospel
-
-  license
-
-  grow
-
-  awful
-
-  lunch
-
-  peace'
-bip_39_word_new_line_9: 'prefer
-
-  cricket
-
-  gospel
-
-  license
-
-  grow
-
-  awful
-
-  lunch
-
-  peace
-
-  speak'
-bip_39_word_no_space_1: prefer
-bip_39_word_no_space_10: prefercricketgospellicensegrowawfullunchpeacespeakrabbit
-bip_39_word_no_space_11: prefercricketgospellicensegrowawfullunchpeacespeakrabbithair
 bip_39_word_no_space_12: prefercricketgospellicensegrowawfullunchpeacespeakrabbithairagent
 bip_39_word_no_space_2: prefercricket
 bip_39_word_no_space_3: prefercricketgospel
-bip_39_word_no_space_4: prefercricketgospellicense
-bip_39_word_no_space_5: prefercricketgospellicensegrow
-bip_39_word_no_space_6: prefercricketgospellicensegrowawful
-bip_39_word_no_space_7: prefercricketgospellicensegrowawfullunch
-bip_39_word_no_space_8: prefercricketgospellicensegrowawfullunchpeace
-bip_39_word_no_space_9: prefercricketgospellicensegrowawfullunchpeacespeak
-bip_39_word_space_0:
-- prefer
-- cricket
-- gospel
-- license
-- grow
-- awful
-- lunch
-- peace
-- speak
-- rabbit
-- hair
-- agent
-bip_39_word_space_1: prefer
-bip_39_word_space_10: prefer cricket gospel license grow awful lunch peace speak rabbit
-bip_39_word_space_11: prefer cricket gospel license grow awful lunch peace speak rabbit
-  hair
 bip_39_word_space_12: prefer cricket gospel license grow awful lunch peace speak rabbit
   hair agent
 bip_39_word_space_2: prefer cricket
 bip_39_word_space_3: prefer cricket gospel
-bip_39_word_space_4: prefer cricket gospel license
-bip_39_word_space_5: prefer cricket gospel license grow
-bip_39_word_space_6: prefer cricket gospel license grow awful
-bip_39_word_space_7: prefer cricket gospel license grow awful lunch
-bip_39_word_space_8: prefer cricket gospel license grow awful lunch peace
-bip_39_word_space_9: prefer cricket gospel license grow awful lunch peace speak
-bip_39_word_underscore_1: prefer
-bip_39_word_underscore_10: prefer_cricket_gospel_license_grow_awful_lunch_peace_speak_rabbit
-bip_39_word_underscore_11: prefer_cricket_gospel_license_grow_awful_lunch_peace_speak_rabbit_hair
 bip_39_word_underscore_12: prefer_cricket_gospel_license_grow_awful_lunch_peace_speak_rabbit_hair_agent
 bip_39_word_underscore_2: prefer_cricket
 bip_39_word_underscore_3: prefer_cricket_gospel
-bip_39_word_underscore_4: prefer_cricket_gospel_license
-bip_39_word_underscore_5: prefer_cricket_gospel_license_grow
-bip_39_word_underscore_6: prefer_cricket_gospel_license_grow_awful
-bip_39_word_underscore_7: prefer_cricket_gospel_license_grow_awful_lunch
-bip_39_word_underscore_8: prefer_cricket_gospel_license_grow_awful_lunch_peace
-bip_39_word_underscore_9: prefer_cricket_gospel_license_grow_awful_lunch_peace_speak
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -280,14 +108,17 @@ id_no_color: m15
 id_no_size: m1_5
 id_no_type: m1_5
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_5
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1_5
-link_2_name: github_link
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_5
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_5
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_5
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2032pik
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2032pik
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2032pik
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2032pik
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m1_5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -295,9 +126,8 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m1_5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5)<br>[nu](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5)<br>[Hardware
-  Nut M1 5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5)<br><br>'
-markdown_short: '[hardware_nut_m1_5](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1_5)<br><br>'
+markdown_full: '[hardware_nut_m1_5](none)<br>[nu](none)<br>[Hardware Nut M1 5](none)<br><br>'
+markdown_short: '[hardware_nut_m1_5](none)<br><br>'
 md5: 4ed0ac0e86a1d0a442b38812c98cdd4e
 md5_10: 4ed0ac0e86
 md5_10_upper: 4ED0AC0E86
@@ -345,6 +175,7 @@ part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu
 short_code_upper: NU
 size: m1_5

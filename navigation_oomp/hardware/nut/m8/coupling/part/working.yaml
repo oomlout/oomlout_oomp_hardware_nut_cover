@@ -1,68 +1,9 @@
-bip_39_word_dash_1: way
-bip_39_word_dash_10: way-sight-clever-fever-craft-expose-stem-century-weapon-group
-bip_39_word_dash_11: way-sight-clever-fever-craft-expose-stem-century-weapon-group-slide
 bip_39_word_dash_12: way-sight-clever-fever-craft-expose-stem-century-weapon-group-slide-ancient
 bip_39_word_dash_2: way-sight
 bip_39_word_dash_3: way-sight-clever
-bip_39_word_dash_4: way-sight-clever-fever
-bip_39_word_dash_5: way-sight-clever-fever-craft
-bip_39_word_dash_6: way-sight-clever-fever-craft-expose
-bip_39_word_dash_7: way-sight-clever-fever-craft-expose-stem
-bip_39_word_dash_8: way-sight-clever-fever-craft-expose-stem-century
-bip_39_word_dash_9: way-sight-clever-fever-craft-expose-stem-century-weapon
-bip_39_word_new_br_1: way
-bip_39_word_new_br_10: way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group
-bip_39_word_new_br_11: way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group<br>slide
 bip_39_word_new_br_12: way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon<br>group<br>slide<br>ancient
 bip_39_word_new_br_2: way<br>sight
 bip_39_word_new_br_3: way<br>sight<br>clever
-bip_39_word_new_br_4: way<br>sight<br>clever<br>fever
-bip_39_word_new_br_5: way<br>sight<br>clever<br>fever<br>craft
-bip_39_word_new_br_6: way<br>sight<br>clever<br>fever<br>craft<br>expose
-bip_39_word_new_br_7: way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem
-bip_39_word_new_br_8: way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century
-bip_39_word_new_br_9: way<br>sight<br>clever<br>fever<br>craft<br>expose<br>stem<br>century<br>weapon
-bip_39_word_new_line_1: way
-bip_39_word_new_line_10: 'way
-
-  sight
-
-  clever
-
-  fever
-
-  craft
-
-  expose
-
-  stem
-
-  century
-
-  weapon
-
-  group'
-bip_39_word_new_line_11: 'way
-
-  sight
-
-  clever
-
-  fever
-
-  craft
-
-  expose
-
-  stem
-
-  century
-
-  weapon
-
-  group
-
-  slide'
 bip_39_word_new_line_12: 'way
 
   sight
@@ -94,129 +35,16 @@ bip_39_word_new_line_3: 'way
   sight
 
   clever'
-bip_39_word_new_line_4: 'way
-
-  sight
-
-  clever
-
-  fever'
-bip_39_word_new_line_5: 'way
-
-  sight
-
-  clever
-
-  fever
-
-  craft'
-bip_39_word_new_line_6: 'way
-
-  sight
-
-  clever
-
-  fever
-
-  craft
-
-  expose'
-bip_39_word_new_line_7: 'way
-
-  sight
-
-  clever
-
-  fever
-
-  craft
-
-  expose
-
-  stem'
-bip_39_word_new_line_8: 'way
-
-  sight
-
-  clever
-
-  fever
-
-  craft
-
-  expose
-
-  stem
-
-  century'
-bip_39_word_new_line_9: 'way
-
-  sight
-
-  clever
-
-  fever
-
-  craft
-
-  expose
-
-  stem
-
-  century
-
-  weapon'
-bip_39_word_no_space_1: way
-bip_39_word_no_space_10: waysightcleverfevercraftexposestemcenturyweapongroup
-bip_39_word_no_space_11: waysightcleverfevercraftexposestemcenturyweapongroupslide
 bip_39_word_no_space_12: waysightcleverfevercraftexposestemcenturyweapongroupslideancient
 bip_39_word_no_space_2: waysight
 bip_39_word_no_space_3: waysightclever
-bip_39_word_no_space_4: waysightcleverfever
-bip_39_word_no_space_5: waysightcleverfevercraft
-bip_39_word_no_space_6: waysightcleverfevercraftexpose
-bip_39_word_no_space_7: waysightcleverfevercraftexposestem
-bip_39_word_no_space_8: waysightcleverfevercraftexposestemcentury
-bip_39_word_no_space_9: waysightcleverfevercraftexposestemcenturyweapon
-bip_39_word_space_0:
-- way
-- sight
-- clever
-- fever
-- craft
-- expose
-- stem
-- century
-- weapon
-- group
-- slide
-- ancient
-bip_39_word_space_1: way
-bip_39_word_space_10: way sight clever fever craft expose stem century weapon group
-bip_39_word_space_11: way sight clever fever craft expose stem century weapon group
-  slide
 bip_39_word_space_12: way sight clever fever craft expose stem century weapon group
   slide ancient
 bip_39_word_space_2: way sight
 bip_39_word_space_3: way sight clever
-bip_39_word_space_4: way sight clever fever
-bip_39_word_space_5: way sight clever fever craft
-bip_39_word_space_6: way sight clever fever craft expose
-bip_39_word_space_7: way sight clever fever craft expose stem
-bip_39_word_space_8: way sight clever fever craft expose stem century
-bip_39_word_space_9: way sight clever fever craft expose stem century weapon
-bip_39_word_underscore_1: way
-bip_39_word_underscore_10: way_sight_clever_fever_craft_expose_stem_century_weapon_group
-bip_39_word_underscore_11: way_sight_clever_fever_craft_expose_stem_century_weapon_group_slide
 bip_39_word_underscore_12: way_sight_clever_fever_craft_expose_stem_century_weapon_group_slide_ancient
 bip_39_word_underscore_2: way_sight
 bip_39_word_underscore_3: way_sight_clever
-bip_39_word_underscore_4: way_sight_clever_fever
-bip_39_word_underscore_5: way_sight_clever_fever_craft
-bip_39_word_underscore_6: way_sight_clever_fever_craft_expose
-bip_39_word_underscore_7: way_sight_clever_fever_craft_expose_stem
-bip_39_word_underscore_8: way_sight_clever_fever_craft_expose_stem_century
-bip_39_word_underscore_9: way_sight_clever_fever_craft_expose_stem_century_weapon
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -305,16 +133,19 @@ id_no_color: coupling
 id_no_size: coupling
 id_no_type: m8_coupling
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_coupling
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_coupling
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m8_coupling
-link_2_name: github_link
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_coupling
+link_2_name: link_github
 link_buy: https://www.orbitalfasteners.co.uk/products/studding-connectors-mild-steel-m8x24-bright-zinc-plated-grade-4-din-6334
 link_buy_name: orbital_fasteners
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_coupling
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_coupling
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_coupling
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205d9nd
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205d9nd
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205d9nd
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205d9nd
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m8_coupling
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -322,9 +153,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m8_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_coupling)<br>[nu8](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_coupling)<br>[Hardware
-  Nut M8 Coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_coupling)<br><br>'
-markdown_short: '[hardware_nut_m8_coupling](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m8_coupling)<br><br>'
+markdown_full: '[hardware_nut_m8_coupling](none)<br>[nu8](none)<br>[Hardware Nut M8
+  Coupling](none)<br><br>'
+markdown_short: '[hardware_nut_m8_coupling](none)<br><br>'
 md5: 899719bfc2257aa94299055655320fc0
 md5_10: 899719bfc2
 md5_10_upper: 899719BFC2
@@ -392,6 +223,7 @@ price_200_distributor_1: '0.1096'
 price_200_distributor_orbital_fasteners: '0.1096'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: missing_value
 short_code: nu8
 short_code_upper: NU8

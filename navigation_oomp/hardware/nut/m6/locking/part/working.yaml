@@ -1,69 +1,10 @@
 barcode_manufacturer_metalmate: '5050420670609'
-bip_39_word_dash_1: grief
-bip_39_word_dash_10: grief-balance-city-drastic-eternal-avoid-chunk-december-main-sentence
-bip_39_word_dash_11: grief-balance-city-drastic-eternal-avoid-chunk-december-main-sentence-swift
 bip_39_word_dash_12: grief-balance-city-drastic-eternal-avoid-chunk-december-main-sentence-swift-album
 bip_39_word_dash_2: grief-balance
 bip_39_word_dash_3: grief-balance-city
-bip_39_word_dash_4: grief-balance-city-drastic
-bip_39_word_dash_5: grief-balance-city-drastic-eternal
-bip_39_word_dash_6: grief-balance-city-drastic-eternal-avoid
-bip_39_word_dash_7: grief-balance-city-drastic-eternal-avoid-chunk
-bip_39_word_dash_8: grief-balance-city-drastic-eternal-avoid-chunk-december
-bip_39_word_dash_9: grief-balance-city-drastic-eternal-avoid-chunk-december-main
-bip_39_word_new_br_1: grief
-bip_39_word_new_br_10: grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main<br>sentence
-bip_39_word_new_br_11: grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main<br>sentence<br>swift
 bip_39_word_new_br_12: grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main<br>sentence<br>swift<br>album
 bip_39_word_new_br_2: grief<br>balance
 bip_39_word_new_br_3: grief<br>balance<br>city
-bip_39_word_new_br_4: grief<br>balance<br>city<br>drastic
-bip_39_word_new_br_5: grief<br>balance<br>city<br>drastic<br>eternal
-bip_39_word_new_br_6: grief<br>balance<br>city<br>drastic<br>eternal<br>avoid
-bip_39_word_new_br_7: grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk
-bip_39_word_new_br_8: grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december
-bip_39_word_new_br_9: grief<br>balance<br>city<br>drastic<br>eternal<br>avoid<br>chunk<br>december<br>main
-bip_39_word_new_line_1: grief
-bip_39_word_new_line_10: 'grief
-
-  balance
-
-  city
-
-  drastic
-
-  eternal
-
-  avoid
-
-  chunk
-
-  december
-
-  main
-
-  sentence'
-bip_39_word_new_line_11: 'grief
-
-  balance
-
-  city
-
-  drastic
-
-  eternal
-
-  avoid
-
-  chunk
-
-  december
-
-  main
-
-  sentence
-
-  swift'
 bip_39_word_new_line_12: 'grief
 
   balance
@@ -95,130 +36,16 @@ bip_39_word_new_line_3: 'grief
   balance
 
   city'
-bip_39_word_new_line_4: 'grief
-
-  balance
-
-  city
-
-  drastic'
-bip_39_word_new_line_5: 'grief
-
-  balance
-
-  city
-
-  drastic
-
-  eternal'
-bip_39_word_new_line_6: 'grief
-
-  balance
-
-  city
-
-  drastic
-
-  eternal
-
-  avoid'
-bip_39_word_new_line_7: 'grief
-
-  balance
-
-  city
-
-  drastic
-
-  eternal
-
-  avoid
-
-  chunk'
-bip_39_word_new_line_8: 'grief
-
-  balance
-
-  city
-
-  drastic
-
-  eternal
-
-  avoid
-
-  chunk
-
-  december'
-bip_39_word_new_line_9: 'grief
-
-  balance
-
-  city
-
-  drastic
-
-  eternal
-
-  avoid
-
-  chunk
-
-  december
-
-  main'
-bip_39_word_no_space_1: grief
-bip_39_word_no_space_10: griefbalancecitydrasticeternalavoidchunkdecembermainsentence
-bip_39_word_no_space_11: griefbalancecitydrasticeternalavoidchunkdecembermainsentenceswift
 bip_39_word_no_space_12: griefbalancecitydrasticeternalavoidchunkdecembermainsentenceswiftalbum
 bip_39_word_no_space_2: griefbalance
 bip_39_word_no_space_3: griefbalancecity
-bip_39_word_no_space_4: griefbalancecitydrastic
-bip_39_word_no_space_5: griefbalancecitydrasticeternal
-bip_39_word_no_space_6: griefbalancecitydrasticeternalavoid
-bip_39_word_no_space_7: griefbalancecitydrasticeternalavoidchunk
-bip_39_word_no_space_8: griefbalancecitydrasticeternalavoidchunkdecember
-bip_39_word_no_space_9: griefbalancecitydrasticeternalavoidchunkdecembermain
-bip_39_word_space_0:
-- grief
-- balance
-- city
-- drastic
-- eternal
-- avoid
-- chunk
-- december
-- main
-- sentence
-- swift
-- album
-bip_39_word_space_1: grief
-bip_39_word_space_10: grief balance city drastic eternal avoid chunk december main
-  sentence
-bip_39_word_space_11: grief balance city drastic eternal avoid chunk december main
-  sentence swift
 bip_39_word_space_12: grief balance city drastic eternal avoid chunk december main
   sentence swift album
 bip_39_word_space_2: grief balance
 bip_39_word_space_3: grief balance city
-bip_39_word_space_4: grief balance city drastic
-bip_39_word_space_5: grief balance city drastic eternal
-bip_39_word_space_6: grief balance city drastic eternal avoid
-bip_39_word_space_7: grief balance city drastic eternal avoid chunk
-bip_39_word_space_8: grief balance city drastic eternal avoid chunk december
-bip_39_word_space_9: grief balance city drastic eternal avoid chunk december main
-bip_39_word_underscore_1: grief
-bip_39_word_underscore_10: grief_balance_city_drastic_eternal_avoid_chunk_december_main_sentence
-bip_39_word_underscore_11: grief_balance_city_drastic_eternal_avoid_chunk_december_main_sentence_swift
 bip_39_word_underscore_12: grief_balance_city_drastic_eternal_avoid_chunk_december_main_sentence_swift_album
 bip_39_word_underscore_2: grief_balance
 bip_39_word_underscore_3: grief_balance_city
-bip_39_word_underscore_4: grief_balance_city_drastic
-bip_39_word_underscore_5: grief_balance_city_drastic_eternal
-bip_39_word_underscore_6: grief_balance_city_drastic_eternal_avoid
-bip_39_word_underscore_7: grief_balance_city_drastic_eternal_avoid_chunk
-bip_39_word_underscore_8: grief_balance_city_drastic_eternal_avoid_chunk_december
-bip_39_word_underscore_9: grief_balance_city_drastic_eternal_avoid_chunk_december_main
 box_of_box_size_manufacturer_metalmate: '6000'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -310,18 +137,21 @@ id_no_color: locking
 id_no_size: locking
 id_no_type: m6_locking
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_locking
-link_2_name: github_link
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking
+link_2_name: link_github
 link_3: https://www.harclob2b.com/m6-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m49
 link_3_name: webpage_manufacturer_metalmate
 link_buy: https://www.orbitalfasteners.co.uk/products/m6-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p
 link_buy_name: orbital_fasteners
-link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203qg8g
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203qg8g
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203qg8g
 link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203qg8g
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m6_locking
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -329,9 +159,9 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[hardware_nut_m6_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking)<br>[nu6](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking)<br>[Hardware
-  Nut M6 Locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking)<br><br>'
-markdown_short: '[hardware_nut_m6_locking](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking)<br><br>'
+markdown_full: '[hardware_nut_m6_locking](none)<br>[nu6](none)<br>[Hardware Nut M6
+  Locking](none)<br><br>'
+markdown_short: '[hardware_nut_m6_locking](none)<br><br>'
 md5: 5fb7b0fc3238a5144026c42452c46b34
 md5_10: 5fb7b0fc32
 md5_10_upper: 5FB7B0FC32
@@ -402,6 +232,7 @@ price_200_distributor_1: '0.0119'
 price_200_distributor_orbital_fasteners: '0.0119'
 price_2_name: accu
 price_3_name: amazon
+price_4_name: aliexpress
 price_current: '0.0119'
 quantity_current: '200'
 short_code: nu6

@@ -1,0 +1,42 @@
+classification: oobb
+color: ''
+description_extra: m3_extra
+description_main: 10_width_10_height_6_mm_depth
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+id: oobb_part_nut_cover_slide_10_width_10_height_6_mm_depth_m3_extra
+id_oobb: oobb_part_oomlout_oomp_hardware_nut_cover_nut_cover_slide_10_width_10_height_6_mm_depth_m3_extra
+kwargs:
+  extra: m3
+  filter: ''
+  height: 10
+  modes:
+  - 3dpr
+  navigation: true
+  oomp_classification: oobb
+  oomp_color: ''
+  oomp_description_extra: m3_extra
+  oomp_description_main: 10_width_10_height_6_mm_depth
+  oomp_manufacturer: ''
+  oomp_mode: oobb
+  oomp_part_number: ''
+  oomp_run: true
+  oomp_size: nut_cover_slide
+  oomp_type: part
+  overwrite: true
+  thickness: 6
+  typ: all
+  type: oomlout_oomp_hardware_nut_cover_nut_cover_slide
+  width: 10
+manufacturer: ''
+name: nut_cover_slide
+part_number: ''
+project_name: C:\gh\oomlout_oomp_hardware_nut_cover
+size: nut_cover_slide
+type: part
